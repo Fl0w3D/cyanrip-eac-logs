@@ -1,0 +1,1310 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    16
+Tracks to rip:  all
+DiscID:         jeHC8XvNyFpkxIXI9hScfbBE..s-
+Release ID:     3c99df7d-754e-4547-8381-046086acc41a
+CDDB ID:        F20BE710
+Disc MCN:       0000000000000
+Album:          Sira
+Album artist:   Jasser Haj Youssef
+AccurateRip:    found
+Total time:     00:50:47.800
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    179 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    157 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    88 frame pregap in track 11, merging into track 10
+    115 frame pregap in track 12, merging into track 11
+    92 frame pregap in track 13, merging into track 12
+    267 frame pregap in track 14, merging into track 13
+    81 frame pregap in track 15, merging into track 14
+    131 frame pregap in track 16, merging into track 15
+
+Cover art destination(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -18.7 LUFS
+    Threshold: -30.4 LUFS
+
+  Loudness range:
+    LRA:        14.3 LU
+    Threshold: -40.3 LUFS
+    LRA low:   -30.4 LUFS
+    LRA high:  -16.1 LUFS
+
+  Sample peak:
+    Peak:       -2.4 dBFS
+
+  True peak:
+    Peak:       -2.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.759064
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.759064
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.758999
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:13.106
+    Samples:     3224004
+    Frames:      5483
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     5482 (with offset: 5483)
+
+  EAC CRC32:     AE7B883E
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  5DDE84AE
+    Accurip v2:  692D8677 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          064b5655-1ee0-4f5c-9e43-29d2e37b13f7
+    title:                         Divine
+    artist:                        Jasser Haj Youssef
+    track:                         1
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206803
+    creation_time:                 2025-11-22T16:19:37
+    REPLAYGAIN_TRACK_GAIN:         0.66 dB
+    R128_TRACK_GAIN:               1448
+    REPLAYGAIN_TRACK_RANGE:        14.31 dB
+    REPLAYGAIN_TRACK_PEAK:         0.758999
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//01. Divine.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -16.1 LUFS
+    Threshold: -26.4 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -36.3 LUFS
+    LRA low:   -20.4 LUFS
+    LRA high:  -13.8 LUFS
+
+  Sample peak:
+    Peak:       -2.6 dBFS
+
+  True peak:
+    Peak:       -2.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.743256
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.743256
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.744162
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:09.426
+    Samples:     10999716
+    Frames:      18707
+    Pregap LSN:  5483 (duration: 00:00:00.000)
+    Start LSN:   5483
+    End LSN:     24189 (with offset: 24190)
+
+  EAC CRC32:     A0B1E07A
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  F2AD14C7
+    Accurip v2:  410FDF94 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          ef8e2024-7744-4fa2-917f-35e4c829b2a7
+    title:                         Doulab
+    artist:                        Jasser Haj Youssef
+    track:                         2
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206804
+    creation_time:                 2025-11-22T16:20:30
+    REPLAYGAIN_TRACK_GAIN:         -1.94 dB
+    R128_TRACK_GAIN:               785
+    REPLAYGAIN_TRACK_RANGE:        6.60 dB
+    REPLAYGAIN_TRACK_PEAK:         0.744162
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//02. Doulab.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.1 LUFS
+    Threshold: -23.3 LUFS
+
+  Loudness range:
+    LRA:         8.2 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -17.6 LUFS
+    LRA high:   -9.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987640
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987640
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.018317
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:02.693
+    Samples:     8056776
+    Frames:      13702
+    Pregap LSN:  24190 (duration: 00:00:00.000)
+    Start LSN:   24190
+    End LSN:     37891 (with offset: 37892)
+
+  EAC CRC32:     72598771
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  C08A1E1C
+    Accurip v2:  E142BAD7 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          d172c115-e379-49d7-8539-4987995b3347
+    title:                         Reveria I
+    artist:                        Jasser Haj Youssef
+    track:                         3
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206805
+    creation_time:                 2025-11-22T16:23:36
+    REPLAYGAIN_TRACK_GAIN:         -4.90 dB
+    R128_TRACK_GAIN:               26
+    REPLAYGAIN_TRACK_RANGE:        8.18 dB
+    REPLAYGAIN_TRACK_PEAK:         1.018317
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//03. Reveria I.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -18.2 LUFS
+    Threshold: -29.1 LUFS
+
+  Loudness range:
+    LRA:         8.2 LU
+    Threshold: -38.9 LUFS
+    LRA low:   -24.5 LUFS
+    LRA high:  -16.2 LUFS
+
+  Sample peak:
+    Peak:       -3.5 dBFS
+
+  True peak:
+    Peak:       -3.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.665924
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.665924
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.666242
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:00:20.160
+    Samples:     889056
+    Frames:      1512
+    Pregap LSN:  37892 (duration: 00:00:00.000)
+    Start LSN:   37892
+    End LSN:     39403 (with offset: 39404)
+
+  EAC CRC32:     001C4F87
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  2C5180FA
+    Accurip v2:  F0E8B61D (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          aea91a90-46a0-40fd-8b7c-25bd86196373
+    title:                         Interlude
+    artist:                        Jasser Haj Youssef
+    track:                         4
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206806
+    creation_time:                 2025-11-22T16:25:48
+    REPLAYGAIN_TRACK_GAIN:         0.19 dB
+    R128_TRACK_GAIN:               1329
+    REPLAYGAIN_TRACK_RANGE:        8.22 dB
+    REPLAYGAIN_TRACK_PEAK:         0.666242
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//04. Interlude.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.1 LUFS
+    Threshold: -23.2 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:  -11.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987579
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987579
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.058629
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:34.653
+    Samples:     6820212
+    Frames:      11599
+    Pregap LSN:  39404 (duration: 00:00:00.000)
+    Start LSN:   39404
+    End LSN:     51002 (with offset: 51003)
+
+  EAC CRC32:     EE2B9CF8
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  3AF194E4
+    Accurip v2:  234750C1 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          9d572248-c449-40c5-9f0c-f1ca1d240623
+    title:                         Reveria II
+    artist:                        Jasser Haj Youssef
+    track:                         5
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206807
+    creation_time:                 2025-11-22T16:26:04
+    REPLAYGAIN_TRACK_GAIN:         -4.92 dB
+    R128_TRACK_GAIN:               21
+    REPLAYGAIN_TRACK_RANGE:        4.69 dB
+    REPLAYGAIN_TRACK_PEAK:         1.058629
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//05. Reveria II.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -20.2 LUFS
+    Threshold: -32.3 LUFS
+
+  Loudness range:
+    LRA:        20.1 LU
+    Threshold: -42.3 LUFS
+    LRA low:   -37.6 LUFS
+    LRA high:  -17.5 LUFS
+
+  Sample peak:
+    Peak:       -4.8 dBFS
+
+  True peak:
+    Peak:       -4.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.577179
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.577179
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.577322
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:36.520
+    Samples:     4256532
+    Frames:      7239
+    Pregap LSN:  50824 (duration: 00:00:02.386)
+    Start LSN:   51003
+    End LSN:     58241 (with offset: 58242)
+
+  EAC CRC32:     5AF20DD8
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  EC8536EE
+    Accurip v2:  A3F1C24C (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          cb37b469-6c43-4a34-98c3-cb247877e819
+    title:                         Eros
+    artist:                        Jasser Haj Youssef
+    track:                         6
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206808
+    creation_time:                 2025-11-22T16:27:51
+    REPLAYGAIN_TRACK_GAIN:         2.23 dB
+    R128_TRACK_GAIN:               1851
+    REPLAYGAIN_TRACK_RANGE:        20.10 dB
+    REPLAYGAIN_TRACK_PEAK:         0.577322
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//06. Eros.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -19.6 LUFS
+    Threshold: -30.6 LUFS
+
+  Loudness range:
+    LRA:        12.8 LU
+    Threshold: -40.6 LUFS
+    LRA low:   -28.3 LUFS
+    LRA high:  -15.5 LUFS
+
+  Sample peak:
+    Peak:       -1.1 dBFS
+
+  True peak:
+    Peak:       -1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.878326
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.878326
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.879162
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:22.626
+    Samples:     8935836
+    Frames:      15197
+    Pregap LSN:  58242 (duration: 00:00:00.000)
+    Start LSN:   58242
+    End LSN:     73438 (with offset: 73439)
+
+  EAC CRC32:     DCF85F2A
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  509155EA
+    Accurip v2:  548E4507 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          fffc2c42-bf04-47eb-aacd-7b9df90ef55e
+    title:                         Choral
+    artist:                        Jasser Haj Youssef
+    track:                         7
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206809
+    creation_time:                 2025-11-22T16:28:58
+    REPLAYGAIN_TRACK_GAIN:         1.60 dB
+    R128_TRACK_GAIN:               1690
+    REPLAYGAIN_TRACK_RANGE:        12.82 dB
+    REPLAYGAIN_TRACK_PEAK:         0.879162
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//07. Choral.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.7 LUFS
+    Threshold: -25.3 LUFS
+
+  Loudness range:
+    LRA:        12.1 LU
+    Threshold: -35.3 LUFS
+    LRA low:   -23.4 LUFS
+    LRA high:  -11.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987518
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987518
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.176347
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:28.693
+    Samples:     17141376
+    Frames:      29152
+    Pregap LSN:  73282 (duration: 00:00:02.093)
+    Start LSN:   73439
+    End LSN:     102590 (with offset: 102591)
+
+  EAC CRC32:     59D4CB39
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  0F0636CF
+    Accurip v2:  998E2191 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          6df9790a-b712-414f-a94b-fe3f10aeac44
+    title:                         Friggya
+    artist:                        Jasser Haj Youssef
+    track:                         8
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206810
+    creation_time:                 2025-11-22T16:31:08
+    REPLAYGAIN_TRACK_GAIN:         -3.25 dB
+    R128_TRACK_GAIN:               447
+    REPLAYGAIN_TRACK_RANGE:        12.06 dB
+    REPLAYGAIN_TRACK_PEAK:         1.176347
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//08. Friggya.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -19.0 LUFS
+    Threshold: -30.0 LUFS
+
+  Loudness range:
+    LRA:        11.8 LU
+    Threshold: -40.0 LUFS
+    LRA low:   -28.3 LUFS
+    LRA high:  -16.5 LUFS
+
+  Sample peak:
+    Peak:       -2.6 dBFS
+
+  True peak:
+    Peak:       -2.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.742889
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.742889
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.743786
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:47.066
+    Samples:     7367640
+    Frames:      12530
+    Pregap LSN:  102591 (duration: 00:00:00.000)
+    Start LSN:   102591
+    End LSN:     115120 (with offset: 115121)
+
+  EAC CRC32:     C35B2D3C
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  526D6A62
+    Accurip v2:  8CC14F14 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          cfdbd859-07eb-4b78-96b5-e3af1925290a
+    title:                         Lamento di Tristano (Live)
+    artist:                        Jasser Haj Youssef
+    track:                         9
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206811
+    creation_time:                 2025-11-22T16:35:15
+    REPLAYGAIN_TRACK_GAIN:         1.02 dB
+    R128_TRACK_GAIN:               1542
+    REPLAYGAIN_TRACK_RANGE:        11.82 dB
+    REPLAYGAIN_TRACK_PEAK:         0.743786
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//09. Lamento di Tristano (Live).flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -21.8 LUFS
+    Threshold: -33.1 LUFS
+
+  Loudness range:
+    LRA:        12.1 LU
+    Threshold: -43.2 LUFS
+    LRA low:   -31.9 LUFS
+    LRA high:  -19.8 LUFS
+
+  Sample peak:
+    Peak:       -8.7 dBFS
+
+  True peak:
+    Peak:       -8.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.365326
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.365326
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.365305
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:00:42.546
+    Samples:     1876308
+    Frames:      3191
+    Pregap LSN:  115121 (duration: 00:00:00.000)
+    Start LSN:   115121
+    End LSN:     118311 (with offset: 118312)
+
+  EAC CRC32:     B76BE0C6
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  4E3E09F3
+    Accurip v2:  1CF115C0 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          53076813-426f-43c0-b7de-bdc2331477ad
+    title:                         Bibi Ya
+    artist:                        Jasser Haj Youssef
+    track:                         10
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206812
+    creation_time:                 2025-11-22T16:36:56
+    REPLAYGAIN_TRACK_GAIN:         3.76 dB
+    R128_TRACK_GAIN:               2243
+    REPLAYGAIN_TRACK_RANGE:        12.14 dB
+    REPLAYGAIN_TRACK_PEAK:         0.365305
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//10. Bibi Ya.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -15.5 LUFS
+    Threshold: -25.7 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -35.7 LUFS
+    LRA low:   -18.4 LUFS
+    LRA high:  -13.4 LUFS
+
+  Sample peak:
+    Peak:       -0.9 dBFS
+
+  True peak:
+    Peak:       -0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.901215
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.901215
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.901184
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:47.760
+    Samples:     10044216
+    Frames:      17082
+    Pregap LSN:  118224 (duration: 00:00:01.173)
+    Start LSN:   118312
+    End LSN:     135393 (with offset: 135394)
+
+  EAC CRC32:     A952B5F6
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  1C575691
+    Accurip v2:  3A4E90F6 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          924482f1-a8d3-49ae-8f0d-11363591bf6e
+    title:                         Iskini - Abu Nawas
+    artist:                        Jasser Haj Youssef
+    track:                         11
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206813
+    creation_time:                 2025-11-22T16:37:23
+    REPLAYGAIN_TRACK_GAIN:         -2.52 dB
+    R128_TRACK_GAIN:               635
+    REPLAYGAIN_TRACK_RANGE:        5.02 dB
+    REPLAYGAIN_TRACK_PEAK:         0.901184
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//11. Iskini - Abu Nawas.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.4 LUFS
+    Threshold: -24.7 LUFS
+
+  Loudness range:
+    LRA:         8.6 LU
+    Threshold: -34.7 LUFS
+    LRA low:   -20.0 LUFS
+    LRA high:  -11.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        2.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987549
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987549
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.345888
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:55.826
+    Samples:     15691956
+    Frames:      26687
+    Pregap LSN:  135279 (duration: 00:00:01.533)
+    Start LSN:   135394
+    End LSN:     162080 (with offset: 162081)
+
+  EAC CRC32:     632E133D
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  283A98AE
+    Accurip v2:  E6E30287 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          a1556906-0a94-4a04-94f4-ddeb393d46b8
+    title:                         Seven Secrets
+    artist:                        Jasser Haj Youssef
+    track:                         12
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206814
+    creation_time:                 2025-11-22T16:39:38
+    REPLAYGAIN_TRACK_GAIN:         -3.59 dB
+    R128_TRACK_GAIN:               360
+    REPLAYGAIN_TRACK_RANGE:        8.62 dB
+    REPLAYGAIN_TRACK_PEAK:         1.345888
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//12. Seven Secrets.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.4 LUFS
+    Threshold: -23.7 LUFS
+
+  Loudness range:
+    LRA:         7.4 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -18.6 LUFS
+    LRA high:  -11.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987579
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987579
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.007328
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:06.200
+    Samples:     13503420
+    Frames:      22965
+    Pregap LSN:  161989 (duration: 00:00:01.226)
+    Start LSN:   162081
+    End LSN:     185045 (with offset: 185046)
+
+  EAC CRC32:     0ED37493
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  58443177
+    Accurip v2:  3A18954E (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          155afe5e-056d-4b63-a5da-4161c296b298
+    title:                         Saba
+    artist:                        Jasser Haj Youssef
+    track:                         13
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206815
+    creation_time:                 2025-11-22T16:43:02
+    REPLAYGAIN_TRACK_GAIN:         -4.63 dB
+    R128_TRACK_GAIN:               94
+    REPLAYGAIN_TRACK_RANGE:        7.37 dB
+    REPLAYGAIN_TRACK_PEAK:         1.007329
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//13. Saba.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -23.8 LUFS
+    Threshold: -35.0 LUFS
+
+  Loudness range:
+    LRA:        14.6 LU
+    Threshold: -45.0 LUFS
+    LRA low:   -34.2 LUFS
+    LRA high:  -19.6 LUFS
+
+  Sample peak:
+    Peak:       -5.4 dBFS
+
+  True peak:
+    Peak:       -5.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.539673
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.539673
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.540868
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:18.720
+    Samples:     6117552
+    Frames:      10404
+    Pregap LSN:  184779 (duration: 00:00:03.560)
+    Start LSN:   185046
+    End LSN:     195449 (with offset: 195450)
+
+  EAC CRC32:     8B5D18C9
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  0F4DE321
+    Accurip v2:  BA92E920 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          dbd338b7-ed76-435e-aa9e-43b78f078e04
+    title:                         Orients
+    artist:                        Jasser Haj Youssef
+    track:                         14
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206816
+    creation_time:                 2025-11-22T16:45:54
+    REPLAYGAIN_TRACK_GAIN:         5.77 dB
+    R128_TRACK_GAIN:               2757
+    REPLAYGAIN_TRACK_RANGE:        14.58 dB
+    REPLAYGAIN_TRACK_PEAK:         0.540868
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//14. Orients.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.5 LUFS
+    Threshold: -23.7 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -17.3 LUFS
+    LRA high:  -11.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        2.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987488
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987488
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.289266
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:03.733
+    Samples:     10748640
+    Frames:      18280
+    Pregap LSN:  195369 (duration: 00:00:01.080)
+    Start LSN:   195450
+    End LSN:     213729 (with offset: 213730)
+
+  EAC CRC32:     E9F4E966
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  D7C8DBB3
+    Accurip v2:  9899B162 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          4f7f94e0-9cfc-4023-99e2-073479ca3529
+    title:                         Broad
+    artist:                        Jasser Haj Youssef
+    track:                         15
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206817
+    creation_time:                 2025-11-22T16:47:08
+    REPLAYGAIN_TRACK_GAIN:         -4.49 dB
+    R128_TRACK_GAIN:               131
+    REPLAYGAIN_TRACK_RANGE:        5.77 dB
+    REPLAYGAIN_TRACK_PEAK:         1.289266
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//15. Broad.flac
+
+Track 16 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -26.1 LUFS
+    Threshold: -37.8 LUFS
+
+  Loudness range:
+    LRA:        17.8 LU
+    Threshold: -47.8 LUFS
+    LRA low:   -39.3 LUFS
+    LRA high:  -21.5 LUFS
+
+  Sample peak:
+    Peak:       -7.2 dBFS
+
+  True peak:
+    Peak:       -7.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.438904
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.438904
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.439569
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:18.066
+    Samples:     8734740
+    Frames:      14855
+    Pregap LSN:  213599 (duration: 00:00:01.746)
+    Start LSN:   213730
+    End LSN:     228584
+    Appended:    1 frames of silence
+
+  EAC CRC32:     CB687FC1
+  Accurip:       disc found in database (max confidence: 4)
+    Accurip v1:  1C8DE7CD
+    Accurip v2:  BD8CE303 (accurately ripped, confidence 4)
+
+  Metadata:
+    mbid:                          d9a209c2-e56a-4a13-a215-7ebbe2ae8c31
+    title:                         Echos (Live)
+    artist:                        Jasser Haj Youssef
+    track:                         16
+    tracktotal:                    16
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            jeHC8XvNyFpkxIXI9hScfbBE..s-
+    cddb:                          F20BE710
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-09-24
+    musicbrainz_albumid:           3c99df7d-754e-4547-8381-046086acc41a
+    album:                         Sira
+    country:                       TN
+    releasestatus:                 Official
+    album_artist:                  Jasser Haj Youssef
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W11206818
+    creation_time:                 2025-11-22T16:49:22
+    REPLAYGAIN_TRACK_GAIN:         8.14 dB
+    R128_TRACK_GAIN:               3363
+    REPLAYGAIN_TRACK_RANGE:        17.79 dB
+    REPLAYGAIN_TRACK_PEAK:         0.439569
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 500x500 Motion JPEG
+
+  File(s):
+    Jasser Haj Youssef - 2012 - Sira [CD-FLAC] [cyanrip]//16. Echos (Live).flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -14.8 LUFS
+    Threshold: -25.8 LUFS
+
+  Loudness range:
+    LRA:        15.1 LU
+    Threshold: -35.8 LUFS
+    LRA low:   -26.6 LUFS
+    LRA high:  -11.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        2.6 dBFS
+
+Tracks ripped accurately: 16/16
+
+Paranoia status counts:
+  READ:          18598
+  VERIFY:        1194
+  OVERLAP:       364
+
+Ripping errors: 0
+Ripping finished at 2025-11-22T16:51:08
+Log FUN512: 793F3fhCJJgFtYmM2yKVlTRqh.joRm.yZk7yinU7pDH4zrwAOVy46z7TdKorIHPPIOOrY543nriYdOscmy1eIg

@@ -1,0 +1,930 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB), Back (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    11
+Tracks to rip:  all
+DiscID:         fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+Release ID:     51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+CDDB ID:        8E08950B
+Disc MCN:       0000000000000
+Album:          7
+Album artist:   Mellow Mood
+AccurateRip:    not found
+Total time:     00:36:37.933
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    150 frame pregap in track 2, merging into track 1
+    150 frame pregap in track 3, merging into track 2
+    150 frame pregap in track 4, merging into track 3
+    150 frame pregap in track 5, merging into track 4
+    150 frame pregap in track 6, merging into track 5
+    150 frame pregap in track 7, merging into track 6
+    150 frame pregap in track 8, merging into track 7
+    150 frame pregap in track 9, merging into track 8
+    150 frame pregap in track 10, merging into track 9
+    150 frame pregap in track 11, merging into track 10
+
+Cover art destination(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/Front.jpg
+    Mellow Mood - 7 [2025-04-11] [FLAC]/Back.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -21.9 LUFS
+
+  Loudness range:
+    LRA:         1.5 LU
+    Threshold: -31.9 LUFS
+    LRA low:   -12.6 LUFS
+    LRA high:  -11.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988098
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988098
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989273
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:43.133
+    Samples:     9840180
+    Frames:      16735
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     16734 (with offset: 16735)
+
+  EAC CRC32:     E4B07D54
+  Accurip:       not found
+    Accurip v1:  23561DAF
+    Accurip v2:  3C9A8768
+    Accurip 450: FD367301
+
+  Metadata:
+    mbid:                          1d4cef96-92e6-4072-aa2a-0dcc90b310c1
+    title:                         Propaganda
+    artist:                        Mellow Mood
+    track:                         1
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500001
+    creation_time:                 2025-11-23T16:01:55
+    REPLAYGAIN_TRACK_GAIN:         -6.21 dB
+    R128_TRACK_GAIN:               -311
+    REPLAYGAIN_TRACK_RANGE:        1.52 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989273
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/01. Propaganda.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.0 LUFS
+    Threshold: -20.1 LUFS
+
+  Loudness range:
+    LRA:         1.9 LU
+    Threshold: -30.0 LUFS
+    LRA low:   -11.2 LUFS
+    LRA high:   -9.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988129
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988129
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988233
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:29.133
+    Samples:     9222780
+    Frames:      15685
+    Pregap LSN:  16585 (duration: 00:00:02.000)
+    Start LSN:   16735
+    End LSN:     32419 (with offset: 32420)
+
+  EAC CRC32:     BD57A0A2
+  Accurip:       not found
+    Accurip v1:  B7496520
+    Accurip v2:  A267F9D4
+    Accurip 450: 38ED78D6
+
+  Metadata:
+    mbid:                          12d5cdb4-52c8-4ab7-a6a2-6e2d8065db98
+    title:                         Home or Abroad
+    artist:                        Mellow Mood feat. Anthony B & Dub Inc
+    track:                         2
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500002
+    creation_time:                 2025-11-23T16:04:46
+    REPLAYGAIN_TRACK_GAIN:         -8.01 dB
+    R128_TRACK_GAIN:               -770
+    REPLAYGAIN_TRACK_RANGE:        1.87 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988233
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/02. Home or Abroad.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.2 LUFS
+
+  Loudness range:
+    LRA:         1.8 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -11.2 LUFS
+    LRA high:   -9.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988129
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988129
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988744
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:10.626
+    Samples:     11052636
+    Frames:      18797
+    Pregap LSN:  32270 (duration: 00:00:02.000)
+    Start LSN:   32420
+    End LSN:     51216 (with offset: 51217)
+
+  EAC CRC32:     D7230928
+  Accurip:       not found
+    Accurip v1:  894651AB
+    Accurip v2:  3E25050D
+    Accurip 450: C71AE34F
+
+  Metadata:
+    mbid:                          9de7d38c-3145-44c6-980e-4d262905076c
+    title:                         Heavy Load
+    artist:                        Mellow Mood feat. Mike Love
+    track:                         3
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500003
+    creation_time:                 2025-11-23T16:07:28
+    REPLAYGAIN_TRACK_GAIN:         -7.89 dB
+    R128_TRACK_GAIN:               -741
+    REPLAYGAIN_TRACK_RANGE:        1.84 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988744
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/03. Heavy Load.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.1 LUFS
+    Threshold: -21.1 LUFS
+
+  Loudness range:
+    LRA:         2.2 LU
+    Threshold: -31.1 LUFS
+    LRA low:   -12.3 LUFS
+    LRA high:  -10.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988098
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988098
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989367
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:00.133
+    Samples:     7943880
+    Frames:      13510
+    Pregap LSN:  51067 (duration: 00:00:02.000)
+    Start LSN:   51217
+    End LSN:     64726 (with offset: 64727)
+
+  EAC CRC32:     6E366708
+  Accurip:       not found
+    Accurip v1:  DAEB9375
+    Accurip v2:  635D33EA
+    Accurip 450: 30C17BD6
+
+  Metadata:
+    mbid:                          85b71c0c-43f3-4715-9dcb-ab63d2834058
+    title:                         Candela
+    artist:                        Mellow Mood
+    track:                         4
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500004
+    creation_time:                 2025-11-23T16:10:23
+    REPLAYGAIN_TRACK_GAIN:         -6.92 dB
+    R128_TRACK_GAIN:               -491
+    REPLAYGAIN_TRACK_RANGE:        2.15 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989367
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/04. Candela.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.7 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         0.8 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -11.0 LUFS
+    LRA high:  -10.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988129
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988129
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989639
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:40.133
+    Samples:     9707880
+    Frames:      16510
+    Pregap LSN:  64577 (duration: 00:00:02.000)
+    Start LSN:   64727
+    End LSN:     81236 (with offset: 81237)
+
+  EAC CRC32:     10B482F3
+  Accurip:       not found
+    Accurip v1:  ED0C6062
+    Accurip v2:  9D3A7E13
+    Accurip 450: 69B1E115
+
+  Metadata:
+    mbid:                          afb1b1e7-c1ec-4a28-98c3-b6143e7f7da8
+    title:                         Pull Up
+    artist:                        Mellow Mood feat. Romain Virgo
+    track:                         5
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500005
+    creation_time:                 2025-11-23T16:12:27
+    REPLAYGAIN_TRACK_GAIN:         -7.30 dB
+    R128_TRACK_GAIN:               -590
+    REPLAYGAIN_TRACK_RANGE:        0.82 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989639
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/05. Pull Up.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.4 LUFS
+    Threshold: -20.5 LUFS
+
+  Loudness range:
+    LRA:         0.9 LU
+    Threshold: -30.5 LUFS
+    LRA low:   -10.7 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988129
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988129
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988491
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:45.133
+    Samples:     7282380
+    Frames:      12385
+    Pregap LSN:  81087 (duration: 00:00:02.000)
+    Start LSN:   81237
+    End LSN:     93621 (with offset: 93622)
+
+  EAC CRC32:     24E5A548
+  Accurip:       not found
+    Accurip v1:  5AA515D3
+    Accurip v2:  33BCC8D8
+    Accurip 450: 21471244
+
+  Metadata:
+    mbid:                          b8811eea-289a-4372-b872-b4a67387e732
+    title:                         Warmonger
+    artist:                        Mellow Mood
+    track:                         6
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500006
+    creation_time:                 2025-11-23T16:14:54
+    REPLAYGAIN_TRACK_GAIN:         -7.57 dB
+    R128_TRACK_GAIN:               -657
+    REPLAYGAIN_TRACK_RANGE:        0.86 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988491
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/06. Warmonger.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.6 LUFS
+    Threshold: -20.7 LUFS
+
+  Loudness range:
+    LRA:         1.6 LU
+    Threshold: -30.7 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -9.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988068
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988068
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.992170
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:27.626
+    Samples:     9156336
+    Frames:      15572
+    Pregap LSN:  93472 (duration: 00:00:02.000)
+    Start LSN:   93622
+    End LSN:     109193 (with offset: 109194)
+
+  EAC CRC32:     23A0E2FB
+  Accurip:       not found
+    Accurip v1:  C15696CB
+    Accurip v2:  E38A9810
+    Accurip 450: 8B72770C
+
+  Metadata:
+    mbid:                          5dccf3ff-ad9a-4460-a1fa-fdc25283a7d2
+    title:                         We’ll Be Home
+    artist:                        Mellow Mood
+    track:                         7
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500007
+    creation_time:                 2025-11-23T16:16:41
+    REPLAYGAIN_TRACK_GAIN:         -7.45 dB
+    R128_TRACK_GAIN:               -627
+    REPLAYGAIN_TRACK_RANGE:        1.60 dB
+    REPLAYGAIN_TRACK_PEAK:         0.992170
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/07. We’ll Be Home.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.5 LUFS
+    Threshold: -20.7 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -30.7 LUFS
+    LRA low:   -12.4 LUFS
+    LRA high:   -9.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988129
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988129
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988753
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:21.626
+    Samples:     8891736
+    Frames:      15122
+    Pregap LSN:  109044 (duration: 00:00:02.000)
+    Start LSN:   109194
+    End LSN:     124315 (with offset: 124316)
+
+  EAC CRC32:     B24B7E02
+  Accurip:       not found
+    Accurip v1:  DF89B7BE
+    Accurip v2:  2064A16C
+    Accurip 450: EA521328
+
+  Metadata:
+    mbid:                          01ae91db-3f5e-42e6-994a-0db1b528fe95
+    title:                         Isabela
+    artist:                        Mellow Mood
+    track:                         8
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500008
+    creation_time:                 2025-11-23T16:18:53
+    REPLAYGAIN_TRACK_GAIN:         -7.50 dB
+    R128_TRACK_GAIN:               -641
+    REPLAYGAIN_TRACK_RANGE:        2.85 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988753
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/08. Isabela.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.7 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         1.6 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988037
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988037
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989601
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:12.626
+    Samples:     8494836
+    Frames:      14447
+    Pregap LSN:  124166 (duration: 00:00:02.000)
+    Start LSN:   124316
+    End LSN:     138762 (with offset: 138763)
+
+  EAC CRC32:     DCD23E7A
+  Accurip:       not found
+    Accurip v1:  72B9E363
+    Accurip v2:  B04AED9D
+    Accurip 450: D2ECDAD2
+
+  Metadata:
+    mbid:                          6e4c9522-6f88-47a4-aab1-35ab088e3b0a
+    title:                         Small Room
+    artist:                        Mellow Mood
+    track:                         9
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500009
+    creation_time:                 2025-11-23T16:20:58
+    REPLAYGAIN_TRACK_GAIN:         -7.29 dB
+    R128_TRACK_GAIN:               -586
+    REPLAYGAIN_TRACK_RANGE:        1.56 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989601
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/09. Small Room.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -21.9 LUFS
+
+  Loudness range:
+    LRA:         3.1 LU
+    Threshold: -31.9 LUFS
+    LRA low:   -13.9 LUFS
+    LRA high:  -10.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987976
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987976
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989784
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:18.626
+    Samples:     8759436
+    Frames:      14897
+    Pregap LSN:  138613 (duration: 00:00:02.000)
+    Start LSN:   138763
+    End LSN:     153659 (with offset: 153660)
+
+  EAC CRC32:     25D99568
+  Accurip:       not found
+    Accurip v1:  2F3E541C
+    Accurip v2:  21073417
+    Accurip 450: 4AF62A96
+
+  Metadata:
+    mbid:                          ef3583f3-8f62-4b35-81e3-8273ec665ce3
+    title:                         Rub a Dub Suavecito
+    artist:                        Mellow Mood
+    track:                         10
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500010
+    creation_time:                 2025-11-23T16:22:56
+    REPLAYGAIN_TRACK_GAIN:         -6.21 dB
+    R128_TRACK_GAIN:               -310
+    REPLAYGAIN_TRACK_RANGE:        3.13 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989784
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/10. Rub a Dub Suavecito.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.2 LUFS
+    Threshold: -22.6 LUFS
+
+  Loudness range:
+    LRA:         8.2 LU
+    Threshold: -32.6 LUFS
+    LRA low:   -18.8 LUFS
+    LRA high:  -10.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988068
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988068
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988122
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:29.133
+    Samples:     6576780
+    Frames:      11185
+    Pregap LSN:  153510 (duration: 00:00:02.000)
+    Start LSN:   153660
+    End LSN:     164844
+    Appended:    1 frames of silence
+
+  EAC CRC32:     7241E282
+  Accurip:       not found
+    Accurip v1:  32F2059A
+    Accurip v2:  4040A565
+    Accurip 450: DB7843EA
+
+  Metadata:
+    mbid:                          245b9df9-81f3-49d8-bc52-3c3fe30af417
+    title:                         Changes
+    artist:                        Mellow Mood
+    track:                         11
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            fvSNvv2kI6R8MmVOBdPYQiXGRCs-
+    cddb:                          8E08950B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-04-11
+    musicbrainz_albumid:           51be9e9f-4dcc-4c59-8368-ecb8c17ea229
+    album:                         7
+    barcode:                       8056459081468
+    country:                       XE
+    album_artist:                  Mellow Mood
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITP842500011
+    creation_time:                 2025-11-23T16:24:53
+    REPLAYGAIN_TRACK_GAIN:         -5.77 dB
+    R128_TRACK_GAIN:               -196
+    REPLAYGAIN_TRACK_RANGE:        8.25 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988122
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Mellow Mood - 7 [2025-04-11] [FLAC]/11. Changes.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -10.8 LUFS
+    Threshold: -20.9 LUFS
+
+  Loudness range:
+    LRA:         3.0 LU
+    Threshold: -31.0 LUFS
+    LRA low:   -12.6 LUFS
+    LRA high:   -9.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+Paranoia status counts:
+  READ:          13555
+  VERIFY:        1022
+  OVERLAP:       284
+
+Ripping errors: 0
+Ripping finished at 2025-11-23T16:26:18
+Log FUN512: qraf3fYrOxnDS38TAcfreYgRLNI3I8rgfYxwK842qI1qChZh3YdnTIdiVDghZhxieZEpIxD4QvyGAf8p4Mk9Rg

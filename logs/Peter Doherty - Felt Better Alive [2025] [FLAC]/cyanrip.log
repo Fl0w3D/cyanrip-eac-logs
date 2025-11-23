@@ -1,0 +1,942 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    11
+Tracks to rip:  all
+DiscID:         kqgx3..50Cac81aReu6kC8iuLyQ-
+Release ID:     fd1030eb-d8b6-4caf-ab5c-bc037386c376
+CDDB ID:        8906C10B
+Disc MCN:       0000000000000
+Album:          Felt Better Alive
+Album artist:   Peter Doherty
+AccurateRip:    found
+Total time:     00:28:49.973
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+
+Cover art destination(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.1 LUFS
+
+  Loudness range:
+    LRA:         4.8 LU
+    Threshold: -29.1 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -7.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.002923
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:48.986
+    Samples:     7452312
+    Frames:      12674
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     12673 (with offset: 12674)
+
+  EAC CRC32:     BDB1EFFE
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  C63F6407
+    Accurip v2:  B22D0A10 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          7e8c39ec-95b4-48c8-84ae-9e115d6f7987
+    title:                         Calvados
+    artist:                        Peter Doherty
+    track:                         1
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422104
+    creation_time:                 2025-11-23T18:44:48
+    REPLAYGAIN_TRACK_GAIN:         -9.01 dB
+    R128_TRACK_GAIN:               -1027
+    REPLAYGAIN_TRACK_RANGE:        4.77 dB
+    REPLAYGAIN_TRACK_PEAK:         1.002923
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/01. Calvados.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.7 LUFS
+    Threshold: -19.1 LUFS
+
+  Loudness range:
+    LRA:         2.8 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -10.4 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.025647
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:42.586
+    Samples:     7170072
+    Frames:      12194
+    Pregap LSN:  12674 (duration: 00:00:00.000)
+    Start LSN:   12674
+    End LSN:     24867 (with offset: 24868)
+
+  EAC CRC32:     A2865998
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  62FAD3BF
+    Accurip v2:  281CCD46 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          9c28373e-5366-4259-a9b9-c9cd23e98a85
+    title:                         Pot of Gold
+    artist:                        Peter Doherty
+    track:                         2
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422105
+    creation_time:                 2025-11-23T18:46:53
+    REPLAYGAIN_TRACK_GAIN:         -9.28 dB
+    R128_TRACK_GAIN:               -1097
+    REPLAYGAIN_TRACK_RANGE:        2.79 dB
+    REPLAYGAIN_TRACK_PEAK:         1.025647
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/02. Pot of Gold.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.8 LUFS
+
+  Loudness range:
+    LRA:         7.7 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -14.5 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003411
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:42.946
+    Samples:     9831948
+    Frames:      16721
+    Pregap LSN:  24868 (duration: 00:00:00.000)
+    Start LSN:   24868
+    End LSN:     41588 (with offset: 41589)
+
+  EAC CRC32:     EE37D514
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  27DD51A2
+    Accurip v2:  99153B89 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          94533551-0841-468d-bb19-b7e56169801b
+    title:                         The Day the Baron Died
+    artist:                        Peter Doherty
+    track:                         3
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422106
+    creation_time:                 2025-11-23T18:49:00
+    REPLAYGAIN_TRACK_GAIN:         -8.47 dB
+    R128_TRACK_GAIN:               -888
+    REPLAYGAIN_TRACK_RANGE:        7.70 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003411
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/03. The Day the Baron Died.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.7 LUFS
+    Threshold: -18.8 LUFS
+
+  Loudness range:
+    LRA:         3.5 LU
+    Threshold: -28.8 LUFS
+    LRA low:   -10.9 LUFS
+    LRA high:   -7.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001486
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:02.866
+    Samples:     8064420
+    Frames:      13715
+    Pregap LSN:  41589 (duration: 00:00:00.000)
+    Start LSN:   41589
+    End LSN:     55303 (with offset: 55304)
+
+  EAC CRC32:     3D9FC300
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  20D8B629
+    Accurip v2:  916429C8 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          b96ec9f4-0198-4cb1-ad68-e710ab3bb09b
+    title:                         Stade Océan
+    artist:                        Peter Doherty
+    track:                         4
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422107
+    creation_time:                 2025-11-23T18:51:48
+    REPLAYGAIN_TRACK_GAIN:         -9.30 dB
+    R128_TRACK_GAIN:               -1101
+    REPLAYGAIN_TRACK_RANGE:        3.54 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001486
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/04. Stade Océan.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -11.2 LUFS
+    LRA high:   -7.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001512
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:25.413
+    Samples:     6412728
+    Frames:      10906
+    Pregap LSN:  55304 (duration: 00:00:00.000)
+    Start LSN:   55304
+    End LSN:     66209 (with offset: 66210)
+
+  EAC CRC32:     BB1F19A5
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  194DF436
+    Accurip v2:  F30D076A (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          36386881-d031-411f-a408-cb54f2f5220d
+    title:                         Out of Tune Balloon
+    artist:                        Peter Doherty
+    track:                         5
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422108
+    creation_time:                 2025-11-23T18:53:56
+    REPLAYGAIN_TRACK_GAIN:         -9.08 dB
+    R128_TRACK_GAIN:               -1046
+    REPLAYGAIN_TRACK_RANGE:        3.62 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001512
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/05. Out of Tune Balloon.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.3 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -11.8 LUFS
+    LRA high:   -7.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.002065
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:20.573
+    Samples:     8845284
+    Frames:      15043
+    Pregap LSN:  66210 (duration: 00:00:00.000)
+    Start LSN:   66210
+    End LSN:     81252 (with offset: 81253)
+
+  EAC CRC32:     981C2A33
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  69A1C294
+    Accurip v2:  14A3D949 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          02f1c73c-c196-40a2-93be-783283314049
+    title:                         Felt Better Alive
+    artist:                        Peter Doherty
+    track:                         6
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422109
+    creation_time:                 2025-11-23T18:55:37
+    REPLAYGAIN_TRACK_GAIN:         -8.74 dB
+    R128_TRACK_GAIN:               -956
+    REPLAYGAIN_TRACK_RANGE:        4.06 dB
+    REPLAYGAIN_TRACK_PEAK:         1.002065
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/06. Felt Better Alive.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.8 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:         3.3 LU
+    Threshold: -29.9 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -8.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.004382
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:20.173
+    Samples:     6181644
+    Frames:      10513
+    Pregap LSN:  81253 (duration: 00:00:00.000)
+    Start LSN:   81253
+    End LSN:     91765 (with offset: 91766)
+
+  EAC CRC32:     552D191B
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  D029BE34
+    Accurip v2:  6CBC3F73 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          b87a81dd-7246-4d05-833b-ce771b9c31c5
+    title:                         Ed Belly
+    artist:                        Peter Doherty
+    track:                         7
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422110
+    creation_time:                 2025-11-23T18:57:49
+    REPLAYGAIN_TRACK_GAIN:         -8.25 dB
+    R128_TRACK_GAIN:               -831
+    REPLAYGAIN_TRACK_RANGE:        3.28 dB
+    REPLAYGAIN_TRACK_PEAK:         1.004382
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/07. Ed Belly.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.2 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -29.2 LUFS
+    LRA low:   -10.7 LUFS
+    LRA high:   -6.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001386
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:47.773
+    Samples:     4752804
+    Frames:      8083
+    Pregap LSN:  91766 (duration: 00:00:00.000)
+    Start LSN:   91766
+    End LSN:     99848 (with offset: 99849)
+
+  EAC CRC32:     87956246
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  140112E0
+    Accurip v2:  75F5A513 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          f69816b6-22e8-468f-85a8-35c56b8dd52b
+    title:                         Poca Mahoney’s
+    artist:                        Peter Doherty feat. Lisa O’Neill
+    track:                         8
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422111
+    creation_time:                 2025-11-23T18:59:21
+    REPLAYGAIN_TRACK_GAIN:         -8.96 dB
+    R128_TRACK_GAIN:               -1014
+    REPLAYGAIN_TRACK_RANGE:        4.09 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001386
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/08. Poca Mahoney’s.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         3.3 LU
+    Threshold: -29.6 LUFS
+    LRA low:   -11.1 LUFS
+    LRA high:   -7.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.004369
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:51.520
+    Samples:     4918032
+    Frames:      8364
+    Pregap LSN:  99849 (duration: 00:00:00.000)
+    Start LSN:   99849
+    End LSN:     108212 (with offset: 108213)
+
+  EAC CRC32:     E14FAC32
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  AE03B4B2
+    Accurip v2:  E56C1DA0 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          a774068f-93f7-44f9-b134-39a2bda70a12
+    title:                         Fingee
+    artist:                        Peter Doherty
+    track:                         9
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422112
+    creation_time:                 2025-11-23T19:00:31
+    REPLAYGAIN_TRACK_GAIN:         -8.46 dB
+    R128_TRACK_GAIN:               -886
+    REPLAYGAIN_TRACK_RANGE:        3.33 dB
+    REPLAYGAIN_TRACK_PEAK:         1.004369
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/09. Fingee.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -7.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001642
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:02.293
+    Samples:     8039136
+    Frames:      13672
+    Pregap LSN:  108213 (duration: 00:00:00.000)
+    Start LSN:   108213
+    End LSN:     121884 (with offset: 121885)
+
+  EAC CRC32:     50EEE58B
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  3D9397AE
+    Accurip v2:  4FF440E9 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          77cf5466-36a6-4577-975c-098b267fe8f9
+    title:                         Prêtre de la mer
+    artist:                        Peter Doherty
+    track:                         10
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422113
+    creation_time:                 2025-11-23T19:01:43
+    REPLAYGAIN_TRACK_GAIN:         -9.25 dB
+    R128_TRACK_GAIN:               -1088
+    REPLAYGAIN_TRACK_RANGE:        4.14 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001642
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/10. Prêtre de la mer.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.4 LUFS
+    Threshold: -23.7 LUFS
+
+  Loudness range:
+    LRA:         4.0 LU
+    Threshold: -33.7 LUFS
+    LRA low:   -15.7 LUFS
+    LRA high:  -11.8 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996948
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.996948
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998575
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:44.840
+    Samples:     4623444
+    Frames:      7863
+    Pregap LSN:  121885 (duration: 00:00:00.000)
+    Start LSN:   121885
+    End LSN:     129747
+    Appended:    1 frames of silence
+
+  EAC CRC32:     0A66A0DF
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  CCEBF185
+    Accurip v2:  674EB198 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          44cbac90-ec73-4033-8768-38cba51e97a6
+    title:                         Empty Room
+    artist:                        Peter Doherty
+    track:                         11
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            kqgx3..50Cac81aReu6kC8iuLyQ-
+    cddb:                          8906C10B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           fd1030eb-d8b6-4caf-ab5c-bc037386c376
+    album:                         Felt Better Alive
+    barcode:                       8721093734390
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Peter Doherty
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          NLRD52422114
+    creation_time:                 2025-11-23T19:03:35
+    REPLAYGAIN_TRACK_GAIN:         -4.61 dB
+    R128_TRACK_GAIN:               101
+    REPLAYGAIN_TRACK_RANGE:        3.98 dB
+    REPLAYGAIN_TRACK_PEAK:         0.998575
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 600x600 Motion JPEG
+
+  File(s):
+    Peter Doherty - Felt Better Alive [2025-05-16] [FLAC]/11. Empty Room.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.3 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         6.0 LU
+    Threshold: -29.5 LUFS
+    LRA low:   -13.3 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+Tracks ripped accurately: 11/11
+
+Paranoia status counts:
+  READ:          10648
+  VERIFY:        763
+  OVERLAP:       214
+
+Ripping errors: 0
+Ripping finished at 2025-11-23T19:04:38
+Log FUN512: jqtnrFG1vDM3Pc_SrgSreR6J1ZyNzl0t0HPA4hIV_uBJrJjmtn1vV_n0JipUd4mlrnohgEkvgxPVy3XdP.OjYA
