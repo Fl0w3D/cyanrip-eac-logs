@@ -1,0 +1,1721 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    21
+Tracks to rip:  all
+DiscID:         E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+Release ID:     87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+CDDB ID:        4A114715
+Disc MCN:       0000000000000
+Album:          $ome $exy $ongs 4 U
+Album artist:   PARTYNEXTDOOR and Drake
+AccurateRip:    found
+Total time:     01:13:43.813
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    0 frame pregap in track 13, merging into track 12
+    0 frame pregap in track 14, merging into track 13
+    0 frame pregap in track 15, merging into track 14
+    0 frame pregap in track 16, merging into track 15
+    0 frame pregap in track 17, merging into track 16
+    0 frame pregap in track 18, merging into track 17
+    0 frame pregap in track 19, merging into track 18
+    0 frame pregap in track 20, merging into track 19
+    0 frame pregap in track 21, merging into track 20
+
+Cover art destination(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.5 LUFS
+    Threshold: -17.7 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -27.7 LUFS
+    LRA low:   -12.4 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.147250
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:01.893
+    Samples:     10667496
+    Frames:      18142
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     18141 (with offset: 18142)
+
+  EAC CRC32:     F85DE997
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  32B4A81F
+    Accurip v2:  FB743A01 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          3abd09a5-b5ce-4cc5-bb07-3aa586bba116
+    title:                         CN TOWER
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         1
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772019
+    creation_time:                 2025-11-26T19:23:37
+    REPLAYGAIN_TRACK_GAIN:         -10.55 dB
+    R128_TRACK_GAIN:               -1421
+    REPLAYGAIN_TRACK_RANGE:        6.58 dB
+    REPLAYGAIN_TRACK_PEAK:         1.147250
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/01. CN TOWER.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.4 LUFS
+    Threshold: -20.0 LUFS
+
+  Loudness range:
+    LRA:        12.8 LU
+    Threshold: -29.9 LUFS
+    LRA low:   -19.6 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.062014
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:32.613
+    Samples:     9376248
+    Frames:      15946
+    Pregap LSN:  18142 (duration: 00:00:00.000)
+    Start LSN:   18142
+    End LSN:     34087 (with offset: 34088)
+
+  EAC CRC32:     F3746553
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  53F98094
+    Accurip v2:  371F8354 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          e7e7b667-5fd5-4e72-ac7f-ce56fe0079c5
+    title:                         MOTH BALLS
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         2
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772020
+    creation_time:                 2025-11-26T19:26:29
+    REPLAYGAIN_TRACK_GAIN:         -8.64 dB
+    R128_TRACK_GAIN:               -933
+    REPLAYGAIN_TRACK_RANGE:        12.84 dB
+    REPLAYGAIN_TRACK_PEAK:         1.062014
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/02. MOTH BALLS.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -12.7 LUFS
+    LRA high:   -7.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.073324
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:38.693
+    Samples:     9644376
+    Frames:      16402
+    Pregap LSN:  34088 (duration: 00:00:00.000)
+    Start LSN:   34088
+    End LSN:     50489 (with offset: 50490)
+
+  EAC CRC32:     BAD97DC8
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  FE367894
+    Accurip v2:  C99DF27E (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          5501c668-da59-4694-a29b-9e3c0ac905c3
+    title:                         SOMETHING ABOUT YOU
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         3
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772021
+    creation_time:                 2025-11-26T19:29:01
+    REPLAYGAIN_TRACK_GAIN:         -8.48 dB
+    R128_TRACK_GAIN:               -891
+    REPLAYGAIN_TRACK_RANGE:        5.03 dB
+    REPLAYGAIN_TRACK_PEAK:         1.073324
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/03. SOMETHING ABOUT YOU.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -29.2 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -6.5 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.056158
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:19.600
+    Samples:     8802360
+    Frames:      14970
+    Pregap LSN:  50490 (duration: 00:00:00.000)
+    Start LSN:   50490
+    End LSN:     65459 (with offset: 65460)
+
+  EAC CRC32:     6229EEFB
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  8265D11A
+    Accurip v2:  045CB8FB (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          d469299a-eecc-4615-9988-0870973579dd
+    title:                         CRYING IN CHANEL
+    artist:                        Drake
+    track:                         4
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772022
+    creation_time:                 2025-11-26T19:31:32
+    REPLAYGAIN_TRACK_GAIN:         -8.79 dB
+    R128_TRACK_GAIN:               -970
+    REPLAYGAIN_TRACK_RANGE:        5.05 dB
+    REPLAYGAIN_TRACK_PEAK:         1.056158
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/04. CRYING IN CHANEL.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.8 LUFS
+
+  Loudness range:
+    LRA:         7.6 LU
+    Threshold: -29.8 LUFS
+    LRA low:   -14.4 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.085334
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:23.906
+    Samples:     8992284
+    Frames:      15293
+    Pregap LSN:  65460 (duration: 00:00:00.000)
+    Start LSN:   65460
+    End LSN:     80752 (with offset: 80753)
+
+  EAC CRC32:     B729E051
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  60B544CE
+    Accurip v2:  6007BE8D (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          63b2c886-88d1-4ee9-bf5d-7d24ad5f2eb4
+    title:                         SPIDER-MAN SUPERMAN
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         5
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772023
+    creation_time:                 2025-11-26T19:33:45
+    REPLAYGAIN_TRACK_GAIN:         -8.48 dB
+    R128_TRACK_GAIN:               -891
+    REPLAYGAIN_TRACK_RANGE:        7.58 dB
+    REPLAYGAIN_TRACK_PEAK:         1.085334
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/05. SPIDER-MAN SUPERMAN.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.3 LUFS
+    Threshold: -19.1 LUFS
+
+  Loudness range:
+    LRA:         5.4 LU
+    Threshold: -29.1 LUFS
+    LRA low:   -12.5 LUFS
+    LRA high:   -7.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.161733
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:52.320
+    Samples:     7599312
+    Frames:      12924
+    Pregap LSN:  80753 (duration: 00:00:00.000)
+    Start LSN:   80753
+    End LSN:     93676 (with offset: 93677)
+
+  EAC CRC32:     7F773ACF
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  B51D3880
+    Accurip v2:  E104F1FC (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          a77efd87-41c3-46ef-992d-f2ccc3887575
+    title:                         DEEPER
+    artist:                        PARTYNEXTDOOR
+    track:                         6
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772024
+    creation_time:                 2025-11-26T19:35:57
+    REPLAYGAIN_TRACK_GAIN:         -9.69 dB
+    R128_TRACK_GAIN:               -1201
+    REPLAYGAIN_TRACK_RANGE:        5.36 dB
+    REPLAYGAIN_TRACK_PEAK:         1.161733
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/06. DEEPER.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         8.4 LU
+    Threshold: -28.8 LUFS
+    LRA low:   -15.2 LUFS
+    LRA high:   -6.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.172772
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:28.520
+    Samples:     6549732
+    Frames:      11139
+    Pregap LSN:  93677 (duration: 00:00:00.000)
+    Start LSN:   93677
+    End LSN:     104815 (with offset: 104816)
+
+  EAC CRC32:     9560DB59
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  89CAC460
+    Accurip v2:  AB2B03C2 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          f57b802c-5fc5-4d85-b84f-dd29da566341
+    title:                         SMALL TOWN FAME
+    artist:                        Drake
+    track:                         7
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772025
+    creation_time:                 2025-11-26T19:37:45
+    REPLAYGAIN_TRACK_GAIN:         -9.57 dB
+    R128_TRACK_GAIN:               -1169
+    REPLAYGAIN_TRACK_RANGE:        8.43 dB
+    REPLAYGAIN_TRACK_PEAK:         1.172772
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/07. SMALL TOWN FAME.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.4 LUFS
+    Threshold: -19.9 LUFS
+
+  Loudness range:
+    LRA:         7.8 LU
+    Threshold: -29.8 LUFS
+    LRA low:   -14.8 LUFS
+    LRA high:   -6.9 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003443
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:58.146
+    Samples:     5210268
+    Frames:      8861
+    Pregap LSN:  104816 (duration: 00:00:00.000)
+    Start LSN:   104816
+    End LSN:     113676 (with offset: 113677)
+
+  EAC CRC32:     9FF68850
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  F9B5F96E
+    Accurip v2:  87CCC011 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          b89edcb5-1af3-45aa-8f10-5f584ec20f25
+    title:                         PIMMIE’S DILEMMA
+    artist:                        PARTYNEXTDOOR, Drake & Pim
+    track:                         8
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772026
+    creation_time:                 2025-11-26T19:39:16
+    REPLAYGAIN_TRACK_GAIN:         -8.55 dB
+    R128_TRACK_GAIN:               -909
+    REPLAYGAIN_TRACK_RANGE:        7.84 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003443
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/08. PIMMIE’S DILEMMA.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.4 LUFS
+    Threshold: -21.1 LUFS
+
+  Loudness range:
+    LRA:        12.6 LU
+    Threshold: -31.0 LUFS
+    LRA low:   -21.6 LUFS
+    LRA high:   -9.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.077682
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:51.413
+    Samples:     4913328
+    Frames:      8356
+    Pregap LSN:  113677 (duration: 00:00:00.000)
+    Start LSN:   113677
+    End LSN:     122032 (with offset: 122033)
+
+  EAC CRC32:     464740EC
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  BCDA3F2C
+    Accurip v2:  9123CECD (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          07e352a7-78e9-490b-940f-3b57436a2292
+    title:                         BRIAN STEEL
+    artist:                        Drake
+    track:                         9
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772027
+    creation_time:                 2025-11-26T19:40:29
+    REPLAYGAIN_TRACK_GAIN:         -7.61 dB
+    R128_TRACK_GAIN:               -669
+    REPLAYGAIN_TRACK_RANGE:        12.61 dB
+    REPLAYGAIN_TRACK_PEAK:         1.077682
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/09. BRIAN STEEL.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -7.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.089659
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:13.053
+    Samples:     8513652
+    Frames:      14479
+    Pregap LSN:  122033 (duration: 00:00:00.000)
+    Start LSN:   122033
+    End LSN:     136511 (with offset: 136512)
+
+  EAC CRC32:     7D6F1B22
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  BBDB2DEC
+    Accurip v2:  95406350 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          05302287-6419-431f-8cb0-912baf2d9773
+    title:                         GIMME A HUG
+    artist:                        Drake
+    track:                         10
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772028
+    creation_time:                 2025-11-26T19:41:38
+    REPLAYGAIN_TRACK_GAIN:         -9.00 dB
+    R128_TRACK_GAIN:               -1025
+    REPLAYGAIN_TRACK_RANGE:        4.13 dB
+    REPLAYGAIN_TRACK_PEAK:         1.089659
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/10. GIMME A HUG.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.1 LUFS
+
+  Loudness range:
+    LRA:         4.9 LU
+    Threshold: -27.1 LUFS
+    LRA low:    -9.9 LUFS
+    LRA high:   -5.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.066805
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:04.933
+    Samples:     10801560
+    Frames:      18370
+    Pregap LSN:  136512 (duration: 00:00:00.000)
+    Start LSN:   136512
+    End LSN:     154881 (with offset: 154882)
+
+  EAC CRC32:     B68D5DE7
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  848CF6D0
+    Accurip v2:  F4E9165A (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          3227cbbb-27ca-415a-aff6-9f9335525ab9
+    title:                         RAINING IN HOUSTON
+    artist:                        Drake
+    track:                         11
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772029
+    creation_time:                 2025-11-26T19:43:39
+    REPLAYGAIN_TRACK_GAIN:         -11.06 dB
+    R128_TRACK_GAIN:               -1552
+    REPLAYGAIN_TRACK_RANGE:        4.90 dB
+    REPLAYGAIN_TRACK_PEAK:         1.066805
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/11. RAINING IN HOUSTON.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.7 LUFS
+    Threshold: -17.8 LUFS
+
+  Loudness range:
+    LRA:         4.8 LU
+    Threshold: -27.8 LUFS
+    LRA low:   -10.9 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.179677
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:18.680
+    Samples:     8761788
+    Frames:      14901
+    Pregap LSN:  154882 (duration: 00:00:00.000)
+    Start LSN:   154882
+    End LSN:     169782 (with offset: 169783)
+
+  EAC CRC32:     4C986D8F
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  29149748
+    Accurip v2:  4514BCAE (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          9629e7cc-3a6a-4a85-aaf5-48e3eae340d5
+    title:                         LASERS
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         12
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772030
+    creation_time:                 2025-11-26T19:46:06
+    REPLAYGAIN_TRACK_GAIN:         -10.32 dB
+    R128_TRACK_GAIN:               -1361
+    REPLAYGAIN_TRACK_RANGE:        4.78 dB
+    REPLAYGAIN_TRACK_PEAK:         1.179677
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/12. LASERS.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.0 LUFS
+    Threshold: -19.1 LUFS
+
+  Loudness range:
+    LRA:         5.9 LU
+    Threshold: -29.1 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.028200
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:31.066
+    Samples:     11954040
+    Frames:      20330
+    Pregap LSN:  169783 (duration: 00:00:00.000)
+    Start LSN:   169783
+    End LSN:     190112 (with offset: 190113)
+
+  EAC CRC32:     EAAC01FC
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  55B3B78C
+    Accurip v2:  F7B363F5 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          8b9f1bb4-bb4d-4457-b040-f9b6520dc92d
+    title:                         MEET YOUR PADRE
+    artist:                        PARTYNEXTDOOR, Drake & Chino Pacas
+    track:                         13
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772031
+    creation_time:                 2025-11-26T19:47:59
+    REPLAYGAIN_TRACK_GAIN:         -9.01 dB
+    R128_TRACK_GAIN:               -1028
+    REPLAYGAIN_TRACK_RANGE:        5.91 dB
+    REPLAYGAIN_TRACK_PEAK:         1.028200
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/13. MEET YOUR PADRE.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.1 LUFS
+    Threshold: -17.2 LUFS
+
+  Loudness range:
+    LRA:         3.5 LU
+    Threshold: -27.2 LUFS
+    LRA low:    -9.3 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.204298
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:01.013
+    Samples:     10628688
+    Frames:      18076
+    Pregap LSN:  190113 (duration: 00:00:00.000)
+    Start LSN:   190113
+    End LSN:     208188 (with offset: 208189)
+
+  EAC CRC32:     EB51AF76
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  C9B614A6
+    Accurip v2:  F2BAE34B (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          719f40b5-c559-44ed-8b9e-c2609815c647
+    title:                         NOKIA
+    artist:                        Drake
+    track:                         14
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772032
+    creation_time:                 2025-11-26T19:50:40
+    REPLAYGAIN_TRACK_GAIN:         -10.94 dB
+    R128_TRACK_GAIN:               -1520
+    REPLAYGAIN_TRACK_RANGE:        3.46 dB
+    REPLAYGAIN_TRACK_PEAK:         1.204298
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/14. NOKIA.flac
+
+Track 15 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.8 LUFS
+    Threshold: -17.8 LUFS
+
+  Loudness range:
+    LRA:         1.5 LU
+    Threshold: -27.8 LUFS
+    LRA low:    -8.5 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.044595
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:15.440
+    Samples:     8618904
+    Frames:      14658
+    Pregap LSN:  208189 (duration: 00:00:00.000)
+    Start LSN:   208189
+    End LSN:     222846 (with offset: 222847)
+
+  EAC CRC32:     A0D9E590
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  3434AD65
+    Accurip v2:  63BD4D83 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          72be25f7-fff8-4bcf-aaf4-bf4275e13415
+    title:                         DIE TRYING
+    artist:                        PARTYNEXTDOOR, Drake & Yebba
+    track:                         15
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772033
+    creation_time:                 2025-11-26T19:53:04
+    REPLAYGAIN_TRACK_GAIN:         -10.22 dB
+    R128_TRACK_GAIN:               -1336
+    REPLAYGAIN_TRACK_RANGE:        1.53 dB
+    REPLAYGAIN_TRACK_PEAK:         1.044595
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/15. DIE TRYING.flac
+
+Track 16 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.9 LUFS
+    Threshold: -18.5 LUFS
+
+  Loudness range:
+    LRA:        13.9 LU
+    Threshold: -28.5 LUFS
+    LRA low:   -20.2 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.126394
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:02.773
+    Samples:     8060304
+    Frames:      13708
+    Pregap LSN:  222847 (duration: 00:00:00.000)
+    Start LSN:   222847
+    End LSN:     236554 (with offset: 236555)
+
+  EAC CRC32:     22C209A6
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  7201A983
+    Accurip v2:  F1929BA5 (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          3dde1f24-24ca-4290-bc80-8ff2d8b3cf9e
+    title:                         SOMEBODY LOVES ME
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         16
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772034
+    creation_time:                 2025-11-26T19:54:59
+    REPLAYGAIN_TRACK_GAIN:         -10.05 dB
+    R128_TRACK_GAIN:               -1294
+    REPLAYGAIN_TRACK_RANGE:        13.95 dB
+    REPLAYGAIN_TRACK_PEAK:         1.126394
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/16. SOMEBODY LOVES ME.flac
+
+Track 17 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.1 LUFS
+    Threshold: -21.6 LUFS
+
+  Loudness range:
+    LRA:         7.2 LU
+    Threshold: -31.5 LUFS
+    LRA low:   -15.9 LUFS
+    LRA high:   -8.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.037575
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:55.613
+    Samples:     10390548
+    Frames:      17671
+    Pregap LSN:  236555 (duration: 00:00:00.000)
+    Start LSN:   236555
+    End LSN:     254225 (with offset: 254226)
+
+  EAC CRC32:     90583DC4
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  9FD40056
+    Accurip v2:  0D373EEF (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          f97f3420-1edc-446b-807d-de18f806350c
+    title:                         CELIBACY
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         17
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772035
+    creation_time:                 2025-11-26T19:56:45
+    REPLAYGAIN_TRACK_GAIN:         -6.88 dB
+    R128_TRACK_GAIN:               -482
+    REPLAYGAIN_TRACK_RANGE:        7.23 dB
+    REPLAYGAIN_TRACK_PEAK:         1.037575
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/17. CELIBACY.flac
+
+Track 18 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.3 LUFS
+
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -27.3 LUFS
+    LRA low:    -9.5 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.085457
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:53.026
+    Samples:     10276476
+    Frames:      17477
+    Pregap LSN:  254226 (duration: 00:00:00.000)
+    Start LSN:   254226
+    End LSN:     271702 (with offset: 271703)
+
+  EAC CRC32:     E774539F
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  3FBA9282
+    Accurip v2:  B1D2790E (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          4122956c-a8f9-48a8-ae7e-5d6cce6942ab
+    title:                         OMW
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         18
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772036
+    creation_time:                 2025-11-26T19:59:01
+    REPLAYGAIN_TRACK_GAIN:         -10.69 dB
+    R128_TRACK_GAIN:               -1456
+    REPLAYGAIN_TRACK_RANGE:        3.67 dB
+    REPLAYGAIN_TRACK_PEAK:         1.085457
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/18. OMW.flac
+
+Track 19 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         7.9 LU
+    Threshold: -28.1 LUFS
+    LRA low:   -12.7 LUFS
+    LRA high:   -4.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.157080
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:25.093
+    Samples:     9044616
+    Frames:      15382
+    Pregap LSN:  271703 (duration: 00:00:00.000)
+    Start LSN:   271703
+    End LSN:     287084 (with offset: 287085)
+
+  EAC CRC32:     BDD60A1C
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  F67B18A2
+    Accurip v2:  F3BFA6FA (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          755a0ce0-2dde-427f-9157-d6b19cedcbbe
+    title:                         GLORIOUS
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         19
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772037
+    creation_time:                 2025-11-26T20:01:13
+    REPLAYGAIN_TRACK_GAIN:         -10.03 dB
+    R128_TRACK_GAIN:               -1287
+    REPLAYGAIN_TRACK_RANGE:        7.86 dB
+    REPLAYGAIN_TRACK_PEAK:         1.157080
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/19. GLORIOUS.flac
+
+Track 20 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.6 LUFS
+
+  Loudness range:
+    LRA:         7.6 LU
+    Threshold: -27.5 LUFS
+    LRA low:   -13.1 LUFS
+    LRA high:   -5.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.100251
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:29.840
+    Samples:     9253944
+    Frames:      15738
+    Pregap LSN:  287085 (duration: 00:00:00.000)
+    Start LSN:   287085
+    End LSN:     302822 (with offset: 302823)
+
+  EAC CRC32:     76A7F118
+  Accurip:       disc found in database (max confidence: 2)
+    Accurip v1:  BFF87973
+    Accurip v2:  D6C3F84B (accurately ripped, confidence 2)
+
+  Metadata:
+    mbid:                          6c7f5c88-d042-4fe9-bb76-9d9dadfdcfac
+    title:                         WHEN HE'S GONE
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         20
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772038
+    creation_time:                 2025-11-26T20:03:09
+    REPLAYGAIN_TRACK_GAIN:         -10.71 dB
+    R128_TRACK_GAIN:               -1462
+    REPLAYGAIN_TRACK_RANGE:        7.57 dB
+    REPLAYGAIN_TRACK_PEAK:         1.100251
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/20. WHEN HE'S GONE.flac
+
+Track 21 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -27.0 LUFS
+    LRA low:    -8.9 LUFS
+    LRA high:   -5.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.061899
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:26.173
+    Samples:     17030244
+    Frames:      28963
+    Pregap LSN:  302823 (duration: 00:00:00.000)
+    Start LSN:   302823
+    End LSN:     331785
+    Appended:    1 frames of silence
+
+  EAC CRC32:     F52245B1
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  7C9CC673
+    Accurip v2:  D0B45DF7 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          d5ef569d-62b6-40cd-be40-dd28ce4d314d
+    title:                         GREEDY
+    artist:                        PARTYNEXTDOOR & Drake
+    track:                         21
+    tracktotal:                    21
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            E2uE2mc_EzjbgYNL0lThq1xx4aQ-
+    cddb:                          4A114715
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           87cdc8d5-8950-4732-9b35-db6e6e12f7cf
+    album:                         $ome $exy $ongs 4 U
+    barcode:                       0808391281578
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  PARTYNEXTDOOR and Drake
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          USLD91772039
+    creation_time:                 2025-11-26T20:05:08
+    REPLAYGAIN_TRACK_GAIN:         -11.14 dB
+    R128_TRACK_GAIN:               -1572
+    REPLAYGAIN_TRACK_RANGE:        3.92 dB
+    REPLAYGAIN_TRACK_PEAK:         1.061899
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 584x507 Motion JPEG
+
+  File(s):
+    PARTYNEXTDOOR and Drake - $ome $exy $ongs 4 U [2025] [FLAC]/21. GREEDY.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -8.1 LUFS
+    Threshold: -18.4 LUFS
+
+  Loudness range:
+    LRA:         7.3 LU
+    Threshold: -28.4 LUFS
+    LRA low:   -13.1 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.6 dBFS
+
+Tracks ripped accurately: 21/21
+
+Paranoia status counts:
+  READ:          27159
+  VERIFY:        1924
+  OVERLAP:       561
+
+Ripping errors: 0
+Ripping finished at 2025-11-26T20:08:40
+Log FUN512: 1iFws5H5JwrpFJWnijrdi8QK5xnXwGLF1JnvX8ir0V0RxKzuUbIaVlwCLt09gvPZLs1TiAdoJVhC1oCgAxu2yA

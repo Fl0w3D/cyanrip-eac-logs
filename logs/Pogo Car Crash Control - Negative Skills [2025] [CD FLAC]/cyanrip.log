@@ -1,0 +1,969 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    12
+Tracks to rip:  all
+DiscID:         v.LTKCQPXLe2X1zLYN.im3pExpo-
+Release ID:     9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+CDDB ID:        B707EC0C
+Disc MCN:       0000000000000
+Album:          Negative Skills
+Album artist:   Pogo Car Crash Control
+AccurateRip:    not found
+Total time:     00:33:48.333
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.4 LUFS
+    Threshold: -15.7 LUFS
+
+  Loudness range:
+    LRA:         6.3 LU
+    Threshold: -25.6 LUFS
+    LRA low:    -9.9 LUFS
+    LRA high:   -3.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.130622
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:14.893
+    Samples:     8594796
+    Frames:      14617
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     14616 (with offset: 14617)
+
+  EAC CRC32:     7BEAED96
+  Accurip:       not found
+    Accurip v1:  5278B29C
+    Accurip v2:  F3D2E946
+    Accurip 450: 19AFE16D
+
+  Metadata:
+    mbid:                          606fdd7d-0410-49be-a597-8714ec53ae81
+    title:                         You Came to Me
+    artist:                        Pogo Car Crash Control
+    track:                         1
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500070
+    creation_time:                 2025-11-27T19:59:45
+    REPLAYGAIN_TRACK_GAIN:         -12.63 dB
+    R128_TRACK_GAIN:               -1953
+    REPLAYGAIN_TRACK_RANGE:        6.28 dB
+    REPLAYGAIN_TRACK_PEAK:         1.130622
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/01. You Came to Me.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.6 LUFS
+    Threshold: -15.8 LUFS
+
+  Loudness range:
+    LRA:         9.0 LU
+    Threshold: -25.8 LUFS
+    LRA low:   -12.4 LUFS
+    LRA high:   -3.5 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.033046
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:02.000
+    Samples:     8026200
+    Frames:      13650
+    Pregap LSN:  14617 (duration: 00:00:00.000)
+    Start LSN:   14617
+    End LSN:     28266 (with offset: 28267)
+
+  EAC CRC32:     23E982B9
+  Accurip:       not found
+    Accurip v1:  21F92860
+    Accurip v2:  B4C0F0A9
+    Accurip 450: 50239280
+
+  Metadata:
+    mbid:                          ed5e6d61-9544-4fc9-87f7-7edda239aa14
+    title:                         Don't Get Sore
+    artist:                        Pogo Car Crash Control
+    track:                         2
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52400410
+    creation_time:                 2025-11-27T20:01:22
+    REPLAYGAIN_TRACK_GAIN:         -12.36 dB
+    R128_TRACK_GAIN:               -1883
+    REPLAYGAIN_TRACK_RANGE:        8.99 dB
+    REPLAYGAIN_TRACK_PEAK:         1.033046
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/02. Don't Get Sore.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.5 LUFS
+    Threshold: -16.0 LUFS
+
+  Loudness range:
+    LRA:         7.5 LU
+    Threshold: -25.9 LUFS
+    LRA low:   -11.0 LUFS
+    LRA high:   -3.5 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.152365
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:47.346
+    Samples:     7379988
+    Frames:      12551
+    Pregap LSN:  28267 (duration: 00:00:00.000)
+    Start LSN:   28267
+    End LSN:     40817 (with offset: 40818)
+
+  EAC CRC32:     DAC0A6C8
+  Accurip:       not found
+    Accurip v1:  958719AD
+    Accurip v2:  EA425C20
+    Accurip 450: A2A318A8
+
+  Metadata:
+    mbid:                          840debe2-63f9-44d3-af23-831ad601dc4e
+    title:                         Comme toi
+    artist:                        Pogo Car Crash Control
+    track:                         3
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500080
+    creation_time:                 2025-11-27T20:02:53
+    REPLAYGAIN_TRACK_GAIN:         -12.46 dB
+    R128_TRACK_GAIN:               -1910
+    REPLAYGAIN_TRACK_RANGE:        7.50 dB
+    REPLAYGAIN_TRACK_PEAK:         1.152365
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/03. Comme toi.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.1 LUFS
+    Threshold: -15.3 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -25.2 LUFS
+    LRA low:    -8.2 LUFS
+    LRA high:   -3.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.152186
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:28.733
+    Samples:     6559140
+    Frames:      11155
+    Pregap LSN:  40818 (duration: 00:00:00.000)
+    Start LSN:   40818
+    End LSN:     51972 (with offset: 51973)
+
+  EAC CRC32:     311CACD9
+  Accurip:       not found
+    Accurip v1:  D9DD6E85
+    Accurip v2:  AA1F9E48
+    Accurip 450: F10AE51F
+
+  Metadata:
+    mbid:                          d771ac5a-a171-409c-8899-7d353eb46cd7
+    title:                         Shallow Time
+    artist:                        Pogo Car Crash Control
+    track:                         4
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500060
+    creation_time:                 2025-11-27T20:04:26
+    REPLAYGAIN_TRACK_GAIN:         -12.95 dB
+    R128_TRACK_GAIN:               -2035
+    REPLAYGAIN_TRACK_RANGE:        4.60 dB
+    REPLAYGAIN_TRACK_PEAK:         1.152186
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/04. Shallow Time.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.2 LUFS
+    Threshold: -15.3 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -25.3 LUFS
+    LRA low:    -8.8 LUFS
+    LRA high:   -3.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.187356
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:03.840
+    Samples:     8107344
+    Frames:      13788
+    Pregap LSN:  51973 (duration: 00:00:00.000)
+    Start LSN:   51973
+    End LSN:     65760 (with offset: 65761)
+
+  EAC CRC32:     C2631406
+  Accurip:       not found
+    Accurip v1:  F5AEC793
+    Accurip v2:  D720F98D
+    Accurip 450: 6906213C
+
+  Metadata:
+    mbid:                          aefe67f0-eb34-4773-9efe-4d6debb8e6dc
+    title:                         Je mettrais bien le feu
+    artist:                        Pogo Car Crash Control
+    track:                         5
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500090
+    creation_time:                 2025-11-27T20:05:49
+    REPLAYGAIN_TRACK_GAIN:         -12.83 dB
+    R128_TRACK_GAIN:               -2004
+    REPLAYGAIN_TRACK_RANGE:        5.61 dB
+    REPLAYGAIN_TRACK_PEAK:         1.187356
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/05. Je mettrais bien le feu.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.8 LUFS
+    Threshold: -17.1 LUFS
+
+  Loudness range:
+    LRA:         7.9 LU
+    Threshold: -27.1 LUFS
+    LRA low:   -12.6 LUFS
+    LRA high:   -4.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.104907
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:18.280
+    Samples:     8744148
+    Frames:      14871
+    Pregap LSN:  65761 (duration: 00:00:00.000)
+    Start LSN:   65761
+    End LSN:     80631 (with offset: 80632)
+
+  EAC CRC32:     22E04F5E
+  Accurip:       not found
+    Accurip v1:  7F035FAF
+    Accurip v2:  8FA168D4
+    Accurip 450: 5E9BD186
+
+  Metadata:
+    mbid:                          ab176220-f2d3-4319-924e-a0dcf13bb134
+    title:                         10 Miles Away
+    artist:                        Pogo Car Crash Control
+    track:                         6
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500100
+    creation_time:                 2025-11-27T20:07:27
+    REPLAYGAIN_TRACK_GAIN:         -11.24 dB
+    R128_TRACK_GAIN:               -1598
+    REPLAYGAIN_TRACK_RANGE:        7.91 dB
+    REPLAYGAIN_TRACK_PEAK:         1.104907
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/06. 10 Miles Away.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.7 LUFS
+    Threshold: -15.9 LUFS
+
+  Loudness range:
+    LRA:         5.1 LU
+    Threshold: -25.8 LUFS
+    LRA low:    -9.1 LUFS
+    LRA high:   -4.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.121783
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:05.373
+    Samples:     8174964
+    Frames:      13903
+    Pregap LSN:  80632 (duration: 00:00:00.000)
+    Start LSN:   80632
+    End LSN:     94534 (with offset: 94535)
+
+  EAC CRC32:     5C58E1D1
+  Accurip:       not found
+    Accurip v1:  5EDA2A7B
+    Accurip v2:  F410F48B
+    Accurip 450: DCD680C6
+
+  Metadata:
+    mbid:                          9d57f0fd-fc4b-40a8-b37b-5aa0e20f62f9
+    title:                         Quelle est la diff ?
+    artist:                        Pogo Car Crash Control
+    track:                         7
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500110
+    creation_time:                 2025-11-27T20:09:10
+    REPLAYGAIN_TRACK_GAIN:         -12.31 dB
+    R128_TRACK_GAIN:               -1871
+    REPLAYGAIN_TRACK_RANGE:        5.08 dB
+    REPLAYGAIN_TRACK_PEAK:         1.121783
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/07. Quelle est la diff ？.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.8 LUFS
+    Threshold: -16.2 LUFS
+
+  Loudness range:
+    LRA:        12.1 LU
+    Threshold: -26.2 LUFS
+    LRA low:   -16.3 LUFS
+    LRA high:   -4.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.153303
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:35.240
+    Samples:     6846084
+    Frames:      11643
+    Pregap LSN:  94535 (duration: 00:00:00.000)
+    Start LSN:   94535
+    End LSN:     106177 (with offset: 106178)
+
+  EAC CRC32:     1F67C79F
+  Accurip:       not found
+    Accurip v1:  024486D3
+    Accurip v2:  C8A578EE
+    Accurip 450: 1CED2494
+
+  Metadata:
+    mbid:                          0fa0d039-e406-4add-a583-45144969a45f
+    title:                         Cerveau mort
+    artist:                        Pogo Car Crash Control
+    track:                         8
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500120
+    creation_time:                 2025-11-27T20:10:45
+    REPLAYGAIN_TRACK_GAIN:         -12.25 dB
+    R128_TRACK_GAIN:               -1856
+    REPLAYGAIN_TRACK_RANGE:        12.09 dB
+    REPLAYGAIN_TRACK_PEAK:         1.153303
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/08. Cerveau mort.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -4.8 LUFS
+    Threshold: -15.0 LUFS
+
+  Loudness range:
+    LRA:         2.8 LU
+    Threshold: -25.0 LUFS
+    LRA low:    -6.3 LUFS
+    LRA high:   -3.5 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.224061
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:46.853
+    Samples:     7358232
+    Frames:      12514
+    Pregap LSN:  106178 (duration: 00:00:00.000)
+    Start LSN:   106178
+    End LSN:     118691 (with offset: 118692)
+
+  EAC CRC32:     B009D9E1
+  Accurip:       not found
+    Accurip v1:  EBC62516
+    Accurip v2:  F34AF9A2
+    Accurip 450: 209A4C51
+
+  Metadata:
+    mbid:                          901eafb5-aadd-49c1-8569-037b0e7eede3
+    title:                         Hatewatch
+    artist:                        Pogo Car Crash Control
+    track:                         9
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500130
+    creation_time:                 2025-11-27T20:12:01
+    REPLAYGAIN_TRACK_GAIN:         -13.18 dB
+    R128_TRACK_GAIN:               -2095
+    REPLAYGAIN_TRACK_RANGE:        2.82 dB
+    REPLAYGAIN_TRACK_PEAK:         1.224061
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/09. Hatewatch.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.9 LUFS
+    Threshold: -15.9 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -25.9 LUFS
+    LRA low:    -9.5 LUFS
+    LRA high:   -4.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.176838
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:28.666
+    Samples:     6556200
+    Frames:      11150
+    Pregap LSN:  118692 (duration: 00:00:00.000)
+    Start LSN:   118692
+    End LSN:     129841 (with offset: 129842)
+
+  EAC CRC32:     11710730
+  Accurip:       not found
+    Accurip v1:  F066532A
+    Accurip v2:  DA8C0335
+    Accurip 450: ED8FEE14
+
+  Metadata:
+    mbid:                          5cf6d2b2-e3c9-4812-93c0-8c2d7dd32b88
+    title:                         Negative Skills
+    artist:                        Pogo Car Crash Control
+    track:                         10
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500150
+    creation_time:                 2025-11-27T20:13:26
+    REPLAYGAIN_TRACK_GAIN:         -12.15 dB
+    R128_TRACK_GAIN:               -1830
+    REPLAYGAIN_TRACK_RANGE:        5.48 dB
+    REPLAYGAIN_TRACK_PEAK:         1.176838
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/10. Negative Skills.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.6 LUFS
+    Threshold: -15.8 LUFS
+
+  Loudness range:
+    LRA:         4.0 LU
+    Threshold: -25.7 LUFS
+    LRA low:    -8.0 LUFS
+    LRA high:   -4.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.130148
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:38.173
+    Samples:     6975444
+    Frames:      11863
+    Pregap LSN:  129842 (duration: 00:00:00.000)
+    Start LSN:   129842
+    End LSN:     141704 (with offset: 141705)
+
+  EAC CRC32:     B2750350
+  Accurip:       not found
+    Accurip v1:  690E9CBB
+    Accurip v2:  1BDD05E5
+    Accurip 450: FA1D21FC
+
+  Metadata:
+    mbid:                          259e4775-ec08-47da-bc11-ff5f5318cd25
+    title:                         Est-ce que ça vous parle ?
+    artist:                        Pogo Car Crash Control
+    track:                         11
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500160
+    creation_time:                 2025-11-27T20:14:38
+    REPLAYGAIN_TRACK_GAIN:         -12.39 dB
+    R128_TRACK_GAIN:               -1893
+    REPLAYGAIN_TRACK_RANGE:        3.99 dB
+    REPLAYGAIN_TRACK_PEAK:         1.130148
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/11. Est-ce que ça vous parle ？.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -5.5 LUFS
+    Threshold: -15.6 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -25.5 LUFS
+    LRA low:    -7.6 LUFS
+    LRA high:   -4.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.170523
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:18.933
+    Samples:     6126960
+    Frames:      10420
+    Pregap LSN:  141705 (duration: 00:00:00.000)
+    Start LSN:   141705
+    End LSN:     152124
+    Appended:    1 frames of silence
+
+  EAC CRC32:     BBF201E2
+  Accurip:       not found
+    Accurip v1:  7F16BC38
+    Accurip v2:  F52E9A87
+    Accurip 450: 44D310BE
+
+  Metadata:
+    mbid:                          6c962cad-7a99-4361-a90d-8bd134af53a3
+    title:                         J'ai grave le seum
+    artist:                        Pogo Car Crash Control
+    track:                         12
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            v.LTKCQPXLe2X1zLYN.im3pExpo-
+    cddb:                          B707EC0C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           9cbbc684-cf59-4f7d-a17d-f52fe98d8951
+    album:                         Negative Skills
+    barcode:                       3596974790926
+    packaging:                     Digipak
+    album_artist:                  Pogo Car Crash Control
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR7O52500140
+    creation_time:                 2025-11-27T20:15:55
+    REPLAYGAIN_TRACK_GAIN:         -12.46 dB
+    R128_TRACK_GAIN:               -1910
+    REPLAYGAIN_TRACK_RANGE:        3.20 dB
+    REPLAYGAIN_TRACK_PEAK:         1.170523
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Pogo Car Crash Control - Negative Skills [2025] [FLAC]/12. J'ai grave le seum.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -5.6 LUFS
+    Threshold: -15.8 LUFS
+
+  Loudness range:
+    LRA:         6.9 LU
+    Threshold: -25.8 LUFS
+    LRA low:   -10.5 LUFS
+    LRA high:   -3.6 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.8 dBFS
+
+Paranoia status counts:
+  READ:          12380
+  VERIFY:        794
+  OVERLAP:       238
+
+Ripping errors: 0
+Ripping finished at 2025-11-27T20:17:00
+Log FUN512: 35uwTHIiEkuJvAbUZlvUWWTqNybYHBp5yWv6gKgL5Izya9ly_tsQkceUmG5qCnV1dB2cEpAQfItn6hTXP_phog

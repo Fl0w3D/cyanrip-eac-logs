@@ -1,0 +1,1137 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    14
+Tracks to rip:  all
+DiscID:         LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+Release ID:     c91aa98f-15f8-4fd8-9963-1d176be5a26c
+CDDB ID:        B60CD80E
+Disc MCN:       0000000000000
+Album:          SlyDee
+Album artist:   Sylvain Daniel
+AccurateRip:    found
+Total time:     00:54:48.186
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    0 frame pregap in track 13, merging into track 12
+    0 frame pregap in track 14, merging into track 13
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.3 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:         1.5 LU
+    Threshold: -30.3 LUFS
+    LRA low:   -10.9 LUFS
+    LRA high:   -9.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.060605
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:53.440
+    Samples:     7648704
+    Frames:      13008
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     13007 (with offset: 13008)
+
+  EAC CRC32:     D021C8AB
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  24C9DB15
+    Accurip v2:  11254DF9 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          f2f5f3bf-1380-4b4a-b55e-b4877ca713c4
+    title:                         Fresh Start
+    artist:                        Sylvain Daniel
+    track:                         1
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411670
+    creation_time:                 2025-11-27T18:44:02
+    REPLAYGAIN_TRACK_GAIN:         -7.72 dB
+    R128_TRACK_GAIN:               -696
+    REPLAYGAIN_TRACK_RANGE:        1.54 dB
+    REPLAYGAIN_TRACK_PEAK:         1.060605
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/01. Fresh Start.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.9 LUFS
+    Threshold: -22.0 LUFS
+
+  Loudness range:
+    LRA:         2.9 LU
+    Threshold: -32.0 LUFS
+    LRA low:   -13.3 LUFS
+    LRA high:  -10.3 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.028543
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:57.453
+    Samples:     10471692
+    Frames:      17809
+    Pregap LSN:  13008 (duration: 00:00:00.000)
+    Start LSN:   13008
+    End LSN:     30816 (with offset: 30817)
+
+  EAC CRC32:     1DEBC1BC
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  63561234
+    Accurip v2:  67423613 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          9b639747-a58e-41b6-88c8-53997fa47978
+    title:                         SoulKraft
+    artist:                        Sylvain Daniel
+    track:                         2
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411671
+    creation_time:                 2025-11-27T18:45:38
+    REPLAYGAIN_TRACK_GAIN:         -6.08 dB
+    R128_TRACK_GAIN:               -276
+    REPLAYGAIN_TRACK_RANGE:        2.95 dB
+    REPLAYGAIN_TRACK_PEAK:         1.028543
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/02. SoulKraft.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.0 LUFS
+    Threshold: -23.0 LUFS
+
+  Loudness range:
+    LRA:         5.7 LU
+    Threshold: -33.0 LUFS
+    LRA low:   -15.6 LUFS
+    LRA high:   -9.9 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.066567
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:46.600
+    Samples:     15285060
+    Frames:      25995
+    Pregap LSN:  30817 (duration: 00:00:00.000)
+    Start LSN:   30817
+    End LSN:     56811 (with offset: 56812)
+
+  EAC CRC32:     90098A72
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  28735F5D
+    Accurip v2:  AC566D6E (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          30b1d0aa-8a19-4220-82e8-14cf1712b280
+    title:                         No Sex In Verneuil
+    artist:                        Sylvain Daniel
+    track:                         3
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411672
+    creation_time:                 2025-11-27T18:48:01
+    REPLAYGAIN_TRACK_GAIN:         -5.05 dB
+    R128_TRACK_GAIN:               -13
+    REPLAYGAIN_TRACK_RANGE:        5.69 dB
+    REPLAYGAIN_TRACK_PEAK:         1.066568
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/03. No Sex In Verneuil.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.1 LUFS
+    Threshold: -23.3 LUFS
+
+  Loudness range:
+    LRA:         6.8 LU
+    Threshold: -33.3 LUFS
+    LRA low:   -17.0 LUFS
+    LRA high:  -10.2 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.032818
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:29.853
+    Samples:     11900532
+    Frames:      20239
+    Pregap LSN:  56812 (duration: 00:00:00.000)
+    Start LSN:   56812
+    End LSN:     77050 (with offset: 77051)
+
+  EAC CRC32:     E99683B0
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  074919CF
+    Accurip v2:  65BF0149 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          130a96a7-74e6-4cf8-b27b-ab8fec35f86f
+    title:                         Resistance
+    artist:                        Sylvain Daniel
+    track:                         4
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411673
+    creation_time:                 2025-11-27T18:51:19
+    REPLAYGAIN_TRACK_GAIN:         -4.93 dB
+    R128_TRACK_GAIN:               17
+    REPLAYGAIN_TRACK_RANGE:        6.78 dB
+    REPLAYGAIN_TRACK_PEAK:         1.032818
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/04. Resistance.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.6 LUFS
+    Threshold: -21.9 LUFS
+
+  Loudness range:
+    LRA:         4.4 LU
+    Threshold: -31.8 LUFS
+    LRA low:   -14.5 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.022299
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:24.213
+    Samples:     9005808
+    Frames:      15316
+    Pregap LSN:  77051 (duration: 00:00:00.000)
+    Start LSN:   77051
+    End LSN:     92366 (with offset: 92367)
+
+  EAC CRC32:     A7DB8733
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  9315DDE9
+    Accurip v2:  B7FBCF3A (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          60fb750f-45c1-4f44-9074-2a171011abd5
+    title:                         Le Monde est à nous
+    artist:                        Sylvain Daniel feat. Benjamin Epps
+    track:                         5
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411674
+    creation_time:                 2025-11-27T18:53:45
+    REPLAYGAIN_TRACK_GAIN:         -6.35 dB
+    R128_TRACK_GAIN:               -347
+    REPLAYGAIN_TRACK_RANGE:        4.40 dB
+    REPLAYGAIN_TRACK_PEAK:         1.022299
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/05. Le Monde est à nous.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -21.9 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -31.9 LUFS
+    LRA low:   -13.3 LUFS
+    LRA high:  -10.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.123392
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:11.186
+    Samples:     16369332
+    Frames:      27839
+    Pregap LSN:  92367 (duration: 00:00:00.000)
+    Start LSN:   92367
+    End LSN:     120205 (with offset: 120206)
+
+  EAC CRC32:     1767C5D4
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  2EED6B85
+    Accurip v2:  FAF876F9 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          7b88463d-e21f-453f-96fc-932f5f67b152
+    title:                         Paisley Rules
+    artist:                        Sylvain Daniel
+    track:                         6
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411675
+    creation_time:                 2025-11-27T18:55:34
+    REPLAYGAIN_TRACK_GAIN:         -6.17 dB
+    R128_TRACK_GAIN:               -300
+    REPLAYGAIN_TRACK_RANGE:        3.20 dB
+    REPLAYGAIN_TRACK_PEAK:         1.123392
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/06. Paisley Rules.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.4 LUFS
+    Threshold: -23.7 LUFS
+
+  Loudness range:
+    LRA:         2.8 LU
+    Threshold: -33.5 LUFS
+    LRA low:   -14.9 LUFS
+    LRA high:  -12.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003999
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:00:28.720
+    Samples:     1266552
+    Frames:      2154
+    Pregap LSN:  120206 (duration: 00:00:00.000)
+    Start LSN:   120206
+    End LSN:     122359 (with offset: 122360)
+
+  EAC CRC32:     B03EB9CE
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  00A0BFDA
+    Accurip v2:  76818A5F (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          41bbcae8-14cc-4f2d-924b-d14b97f58a11
+    title:                         Interlude I
+    artist:                        Sylvain Daniel
+    track:                         7
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411676
+    creation_time:                 2025-11-27T18:58:46
+    REPLAYGAIN_TRACK_GAIN:         -4.56 dB
+    R128_TRACK_GAIN:               112
+    REPLAYGAIN_TRACK_RANGE:        2.75 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003999
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/07. Interlude I.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.2 LUFS
+    Threshold: -21.7 LUFS
+
+  Loudness range:
+    LRA:        13.6 LU
+    Threshold: -31.7 LUFS
+    LRA low:   -22.5 LUFS
+    LRA high:   -8.9 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.042500
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:13.640
+    Samples:     13831524
+    Frames:      23523
+    Pregap LSN:  122360 (duration: 00:00:00.000)
+    Start LSN:   122360
+    End LSN:     145882 (with offset: 145883)
+
+  EAC CRC32:     321153F1
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  C9E7CC1B
+    Accurip v2:  FE1BD5D2 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          13647bf7-5e4e-4eaf-84be-13494cddc9a2
+    title:                         Say Goodbye
+    artist:                        Sylvain Daniel
+    track:                         8
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411677
+    creation_time:                 2025-11-27T18:59:01
+    REPLAYGAIN_TRACK_GAIN:         -6.82 dB
+    R128_TRACK_GAIN:               -467
+    REPLAYGAIN_TRACK_RANGE:        13.56 dB
+    REPLAYGAIN_TRACK_PEAK:         1.042500
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/08. Say Goodbye.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.3 LUFS
+    Threshold: -23.6 LUFS
+
+  Loudness range:
+    LRA:         6.3 LU
+    Threshold: -33.6 LUFS
+    LRA low:   -17.0 LUFS
+    LRA high:  -10.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.009913
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:04.573
+    Samples:     13431684
+    Frames:      22843
+    Pregap LSN:  145883 (duration: 00:00:00.000)
+    Start LSN:   145883
+    End LSN:     168725 (with offset: 168726)
+
+  EAC CRC32:     B2F88B75
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  368AB477
+    Accurip v2:  C5E435C0 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          85b2b43e-ad7f-416e-bde3-e579b6139376
+    title:                         Melancholia
+    artist:                        Sylvain Daniel
+    track:                         9
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411678
+    creation_time:                 2025-11-27T19:01:36
+    REPLAYGAIN_TRACK_GAIN:         -4.69 dB
+    R128_TRACK_GAIN:               80
+    REPLAYGAIN_TRACK_RANGE:        6.33 dB
+    REPLAYGAIN_TRACK_PEAK:         1.009913
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/09. Melancholia.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.3 LUFS
+    Threshold: -23.3 LUFS
+
+  Loudness range:
+    LRA:         3.5 LU
+    Threshold: -33.3 LUFS
+    LRA low:   -15.2 LUFS
+    LRA high:  -11.7 LUFS
+
+  Sample peak:
+    Peak:       -1.3 dBFS
+
+  True peak:
+    Peak:       -1.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.857300
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.857300
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.857493
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:52.013
+    Samples:     10231788
+    Frames:      17401
+    Pregap LSN:  168726 (duration: 00:00:00.000)
+    Start LSN:   168726
+    End LSN:     186126 (with offset: 186127)
+
+  EAC CRC32:     FEB195B5
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  E5D9E171
+    Accurip v2:  FBD2D508 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          c9d84e9a-eebc-4d11-8bb0-361b7525e95e
+    title:                         Bossa Champi
+    artist:                        Sylvain Daniel
+    track:                         10
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411679
+    creation_time:                 2025-11-27T19:04:06
+    REPLAYGAIN_TRACK_GAIN:         -4.74 dB
+    R128_TRACK_GAIN:               67
+    REPLAYGAIN_TRACK_RANGE:        3.50 dB
+    REPLAYGAIN_TRACK_PEAK:         0.857493
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/10. Bossa Champi.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -22.1 LUFS
+
+  Loudness range:
+    LRA:         3.4 LU
+    Threshold: -32.0 LUFS
+    LRA low:   -13.5 LUFS
+    LRA high:  -10.1 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.028857
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:17.013
+    Samples:     11334288
+    Frames:      19276
+    Pregap LSN:  186127 (duration: 00:00:00.000)
+    Start LSN:   186127
+    End LSN:     205402 (with offset: 205403)
+
+  EAC CRC32:     2D7F3A05
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  FFBBEC4F
+    Accurip v2:  1EEA74CE (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          0f9dd2fa-612a-4ad4-9a20-d50ebd8412e6
+    title:                         My Discomelo
+    artist:                        Sylvain Daniel feat. Thomas de Pourquery
+    track:                         11
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411680
+    creation_time:                 2025-11-27T19:06:00
+    REPLAYGAIN_TRACK_GAIN:         -6.15 dB
+    R128_TRACK_GAIN:               -295
+    REPLAYGAIN_TRACK_RANGE:        3.37 dB
+    REPLAYGAIN_TRACK_PEAK:         1.028857
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/11. My Discomelo.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.3 LUFS
+    Threshold: -22.4 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -32.4 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:  -10.4 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.083984
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:47.120
+    Samples:     10015992
+    Frames:      17034
+    Pregap LSN:  205403 (duration: 00:00:00.000)
+    Start LSN:   205403
+    End LSN:     222436 (with offset: 222437)
+
+  EAC CRC32:     569061DA
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  67E1D96F
+    Accurip v2:  48F76E6B (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          d7124fc3-3299-4542-8e22-cf50e7b93bb7
+    title:                         Psalmocracy
+    artist:                        Sylvain Daniel feat. SUPÉRETTE
+    track:                         12
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411681
+    creation_time:                 2025-11-27T19:08:05
+    REPLAYGAIN_TRACK_GAIN:         -5.69 dB
+    R128_TRACK_GAIN:               -177
+    REPLAYGAIN_TRACK_RANGE:        5.56 dB
+    REPLAYGAIN_TRACK_PEAK:         1.083984
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/12. Psalmocracy.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.1 LUFS
+    Threshold: -24.2 LUFS
+
+  Loudness range:
+    LRA:         2.6 LU
+    Threshold: -34.1 LUFS
+    LRA low:   -15.3 LUFS
+    LRA high:  -12.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001286
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:00:47.546
+    Samples:     2096808
+    Frames:      3566
+    Pregap LSN:  222437 (duration: 00:00:00.000)
+    Start LSN:   222437
+    End LSN:     226002 (with offset: 226003)
+
+  EAC CRC32:     421C03A6
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  BDA9F458
+    Accurip v2:  6B5122B8 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          dbfc2a24-6db9-4136-a5f1-ae4644f26ceb
+    title:                         Interlude II
+    artist:                        Sylvain Daniel
+    track:                         13
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411682
+    creation_time:                 2025-11-27T19:09:54
+    REPLAYGAIN_TRACK_GAIN:         -3.87 dB
+    R128_TRACK_GAIN:               289
+    REPLAYGAIN_TRACK_RANGE:        2.59 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001286
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/13. Interlude II.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.6 LUFS
+    Threshold: -22.8 LUFS
+
+  Loudness range:
+    LRA:         6.0 LU
+    Threshold: -32.8 LUFS
+    LRA low:   -16.0 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.041132
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:34.813
+    Samples:     12119268
+    Frames:      20611
+    Pregap LSN:  226003 (duration: 00:00:00.000)
+    Start LSN:   226003
+    End LSN:     246613
+    Appended:    1 frames of silence
+
+  EAC CRC32:     6C5D0B44
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  25643CC3
+    Accurip v2:  9283F9CB (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          80a37173-4ed3-432b-892d-7cf60cb90d6f
+    title:                         Old Fashioned
+    artist:                        Sylvain Daniel
+    track:                         14
+    tracktotal:                    14
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            LQ9sTqWa5pvrvlOZynnw0FG6tr8-
+    cddb:                          B60CD80E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2024-04-26
+    musicbrainz_albumid:           c91aa98f-15f8-4fd8-9963-1d176be5a26c
+    album:                         SlyDee
+    barcode:                       3521383489208
+    packaging:                     Jewel Case
+    country:                       XW
+    releasestatus:                 Official
+    album_artist:                  Sylvain Daniel
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR9W12411683
+    creation_time:                 2025-11-27T19:10:20
+    REPLAYGAIN_TRACK_GAIN:         -5.36 dB
+    R128_TRACK_GAIN:               -93
+    REPLAYGAIN_TRACK_RANGE:        6.01 dB
+    REPLAYGAIN_TRACK_PEAK:         1.041132
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Sylvain Daniel - SlyDee [2024-04-26] [FLAC]/14. Old Fashioned.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -12.2 LUFS
+    Threshold: -22.4 LUFS
+
+  Loudness range:
+    LRA:         6.0 LU
+    Threshold: -32.4 LUFS
+    LRA low:   -15.9 LUFS
+    LRA high:   -9.9 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        1.0 dBFS
+
+Tracks ripped accurately: 14/14
+
+Paranoia status counts:
+  READ:          20052
+  VERIFY:        1364
+  OVERLAP:       403
+
+Ripping errors: 0
+Ripping finished at 2025-11-27T19:12:34
+Log FUN512: 0aDpLZyBB_sOXXAZFPD6GbG4fxuGpeJ7DSab20O5SEfAnNoPJhCFDgL1jvHYcBmkXi8ua8CIECWAS9GN0QUV3A

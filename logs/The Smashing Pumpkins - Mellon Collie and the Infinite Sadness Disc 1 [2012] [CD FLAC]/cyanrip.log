@@ -1,0 +1,1151 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    2
+Disc tracks:    14
+Tracks to rip:  all
+DiscID:         0OZyYggx62noBVdyLWB7sSqqJ7M-
+Release ID:     51367f4f-20ee-4624-a204-416492170e5a
+CDDB ID:        B60D980E
+Disc MCN:       5099997855422
+Album:          Mellon Collie and the Infinite Sadness
+Album artist:   The Smashing Pumpkins
+AccurateRip:    found
+Total time:     00:58:00.760
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    83 frame pregap in track 4, merging into track 3
+    70 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    114 frame pregap in track 7, merging into track 6
+    175 frame pregap in track 8, merging into track 7
+    12 frame pregap in track 9, merging into track 8
+    115 frame pregap in track 10, merging into track 9
+    61 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    141 frame pregap in track 13, merging into track 12
+    245 frame pregap in track 14, merging into track 13
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -22.8 LUFS
+    Threshold: -33.0 LUFS
+
+  Loudness range:
+    LRA:         7.6 LU
+    Threshold: -43.0 LUFS
+    LRA low:   -26.9 LUFS
+    LRA high:  -19.3 LUFS
+
+  Sample peak:
+    Peak:       -5.4 dBFS
+
+  True peak:
+    Peak:       -5.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.537964
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.537964
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.537936
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:52.920
+    Samples:     7625772
+    Frames:      12969
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     12968 (with offset: 12969)
+
+  EAC CRC32:     E505F8CF
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  FC737868
+    Accurip v2:  8847F27E (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          d5165d2d-be7c-4555-8bd8-630e2085c090
+    title:                         Mellon Collie and the Infinite Sadness
+    artist:                        The Smashing Pumpkins
+    track:                         1
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200892
+    creation_time:                 2025-11-24T01:46:54
+    REPLAYGAIN_TRACK_GAIN:         4.82 dB
+    R128_TRACK_GAIN:               2515
+    REPLAYGAIN_TRACK_RANGE:        7.61 dB
+    REPLAYGAIN_TRACK_PEAK:         0.537936
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/01. Mellon Collie and the Infinite Sadness.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -22.1 LUFS
+
+  Loudness range:
+    LRA:         7.7 LU
+    Threshold: -32.0 LUFS
+    LRA low:   -17.1 LUFS
+    LRA high:   -9.4 LUFS
+
+  Sample peak:
+    Peak:       -1.7 dBFS
+
+  True peak:
+    Peak:       -1.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.821136
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.821136
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.825376
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:14.626
+    Samples:     11229036
+    Frames:      19097
+    Pregap LSN:  12969 (duration: 00:00:00.000)
+    Start LSN:   12969
+    End LSN:     32065 (with offset: 32066)
+
+  EAC CRC32:     F9F83DBF
+  Accurip:       disc found in database (max confidence: 165)
+    Accurip v1:  3BC32B76
+    Accurip v2:  9056BB3E (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          d07057c1-312b-4a7e-b129-dd7383539f57
+    title:                         Tonight, Tonight
+    artist:                        The Smashing Pumpkins
+    track:                         2
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200893
+    creation_time:                 2025-11-24T01:49:04
+    REPLAYGAIN_TRACK_GAIN:         -6.22 dB
+    R128_TRACK_GAIN:               -311
+    REPLAYGAIN_TRACK_RANGE:        7.73 dB
+    REPLAYGAIN_TRACK_PEAK:         0.825376
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/02. Tonight, Tonight.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.7 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         3.1 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:   -8.2 LUFS
+
+  Sample peak:
+    Peak:       -0.7 dBFS
+
+  True peak:
+    Peak:       -0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.922241
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.922241
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.923740
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:01.533
+    Samples:     8005620
+    Frames:      13615
+    Pregap LSN:  32066 (duration: 00:00:00.000)
+    Start LSN:   32066
+    End LSN:     45680 (with offset: 45681)
+
+  EAC CRC32:     23D80411
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  538645DF
+    Accurip v2:  094E3440 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          cf34c057-17d0-4a0d-832a-cf3480538f46
+    title:                         Jellybelly
+    artist:                        The Smashing Pumpkins
+    track:                         3
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200894
+    creation_time:                 2025-11-24T01:52:30
+    REPLAYGAIN_TRACK_GAIN:         -8.28 dB
+    R128_TRACK_GAIN:               -840
+    REPLAYGAIN_TRACK_RANGE:        3.11 dB
+    REPLAYGAIN_TRACK_PEAK:         0.923740
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/03. Jellybelly.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.3 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         3.3 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -10.8 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991180
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.991180
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997804
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:40.173
+    Samples:     7063644
+    Frames:      12013
+    Pregap LSN:  45598 (duration: 00:00:01.106)
+    Start LSN:   45681
+    End LSN:     57693 (with offset: 57694)
+
+  EAC CRC32:     7510CEF0
+  Accurip:       disc found in database (max confidence: 165)
+    Accurip v1:  C3AA90C3
+    Accurip v2:  FA0C26BF (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          239e517c-03e8-4291-9478-66c2cc936f0c
+    title:                         Zero
+    artist:                        The Smashing Pumpkins
+    track:                         4
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200895
+    creation_time:                 2025-11-24T01:54:46
+    REPLAYGAIN_TRACK_GAIN:         -8.75 dB
+    R128_TRACK_GAIN:               -959
+    REPLAYGAIN_TRACK_RANGE:        3.33 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997804
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/04. Zero.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -13.6 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995056
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.995056
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.001929
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:45.120
+    Samples:     9927792
+    Frames:      16884
+    Pregap LSN:  57624 (duration: 00:00:00.933)
+    Start LSN:   57694
+    End LSN:     74577 (with offset: 74578)
+
+  EAC CRC32:     1B95F350
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  A640D230
+    Accurip v2:  DE447E3A (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          65699ede-02ff-4b42-ad32-708201145f96
+    title:                         Here Is No Why
+    artist:                        The Smashing Pumpkins
+    track:                         5
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200896
+    creation_time:                 2025-11-24T01:56:47
+    REPLAYGAIN_TRACK_GAIN:         -8.77 dB
+    R128_TRACK_GAIN:               -965
+    REPLAYGAIN_TRACK_RANGE:        6.58 dB
+    REPLAYGAIN_TRACK_PEAK:         1.001929
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/05. Here Is No Why.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.9 LUFS
+    Threshold: -21.1 LUFS
+
+  Loudness range:
+    LRA:         6.0 LU
+    Threshold: -31.1 LUFS
+    LRA low:   -14.6 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993164
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.993164
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997646
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:18.466
+    Samples:     11398380
+    Frames:      19385
+    Pregap LSN:  74578 (duration: 00:00:00.000)
+    Start LSN:   74578
+    End LSN:     93962 (with offset: 93963)
+
+  EAC CRC32:     F04B14E7
+  Accurip:       disc found in database (max confidence: 165)
+    Accurip v1:  E3D29A12
+    Accurip v2:  B2D6F062 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          7c1f143a-f016-4cb0-be79-c4467dd800e0
+    title:                         Bullet With Butterfly Wings
+    artist:                        The Smashing Pumpkins
+    track:                         6
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200897
+    creation_time:                 2025-11-24T01:59:28
+    REPLAYGAIN_TRACK_GAIN:         -7.14 dB
+    R128_TRACK_GAIN:               -548
+    REPLAYGAIN_TRACK_RANGE:        5.99 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997646
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/06. Bullet With Butterfly Wings.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.8 LUFS
+    Threshold: -22.8 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -32.8 LUFS
+    LRA low:   -14.6 LUFS
+    LRA high:  -10.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.992615
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.992615
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000189
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:17.266
+    Samples:     11345460
+    Frames:      19295
+    Pregap LSN:  93849 (duration: 00:00:01.520)
+    Start LSN:   93963
+    End LSN:     113257 (with offset: 113258)
+
+  EAC CRC32:     B56592D6
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  04A27DCC
+    Accurip v2:  E9AFFA5D (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          c6c704b1-4043-4f2e-828a-0af5e5f34233
+    title:                         To Forgive
+    artist:                        The Smashing Pumpkins
+    track:                         7
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200898
+    creation_time:                 2025-11-24T02:02:22
+    REPLAYGAIN_TRACK_GAIN:         -5.24 dB
+    R128_TRACK_GAIN:               -62
+    REPLAYGAIN_TRACK_RANGE:        4.07 dB
+    REPLAYGAIN_TRACK_PEAK:         1.000189
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/07. To Forgive.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.6 LUFS
+    Threshold: -20.7 LUFS
+
+  Loudness range:
+    LRA:         6.7 LU
+    Threshold: -30.6 LUFS
+    LRA low:   -14.8 LUFS
+    LRA high:   -8.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998138
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.998138
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998521
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:51.733
+    Samples:     12865440
+    Frames:      21880
+    Pregap LSN:  113083 (duration: 00:00:02.333)
+    Start LSN:   113258
+    End LSN:     135137 (with offset: 135138)
+
+  EAC CRC32:     EFF8D50C
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  F0AD85AE
+    Accurip v2:  EEB0B469 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          65f85046-d1d0-4d5e-94fe-9d0eb5a54aa4
+    title:                         Fuck You (An Ode to No One)
+    artist:                        The Smashing Pumpkins
+    track:                         8
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200899
+    creation_time:                 2025-11-24T02:05:05
+    REPLAYGAIN_TRACK_GAIN:         -7.42 dB
+    R128_TRACK_GAIN:               -620
+    REPLAYGAIN_TRACK_RANGE:        6.74 dB
+    REPLAYGAIN_TRACK_PEAK:         0.998521
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/08. Fuck You (An Ode to No One).flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.5 LUFS
+    Threshold: -21.6 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -31.6 LUFS
+    LRA low:   -13.2 LUFS
+    LRA high:   -9.4 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999969
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999969
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.005250
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:22.760
+    Samples:     11587716
+    Frames:      19707
+    Pregap LSN:  135126 (duration: 00:00:00.160)
+    Start LSN:   135138
+    End LSN:     154844 (with offset: 154845)
+
+  EAC CRC32:     419EEA5C
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  6B3C8939
+    Accurip v2:  DBBB0AAE (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          ea2a3417-5640-469c-a0a0-89d96bfbd1f0
+    title:                         Love
+    artist:                        The Smashing Pumpkins
+    track:                         9
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200900
+    creation_time:                 2025-11-24T02:08:05
+    REPLAYGAIN_TRACK_GAIN:         -6.49 dB
+    R128_TRACK_GAIN:               -382
+    REPLAYGAIN_TRACK_RANGE:        3.88 dB
+    REPLAYGAIN_TRACK_PEAK:         1.005250
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/09. Love.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.1 LUFS
+    Threshold: -21.3 LUFS
+
+  Loudness range:
+    LRA:         1.8 LU
+    Threshold: -31.3 LUFS
+    LRA low:   -11.8 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991089
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.991089
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.008827
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:50.280
+    Samples:     7509348
+    Frames:      12771
+    Pregap LSN:  154730 (duration: 00:00:01.533)
+    Start LSN:   154845
+    End LSN:     167615 (with offset: 167616)
+
+  EAC CRC32:     6247E9D3
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  D1123DFE
+    Accurip v2:  D61D838F (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          537050f2-7407-4c44-8031-cbc20156af7d
+    title:                         Cupid de Locke
+    artist:                        The Smashing Pumpkins
+    track:                         10
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200901
+    creation_time:                 2025-11-24T02:10:43
+    REPLAYGAIN_TRACK_GAIN:         -6.85 dB
+    R128_TRACK_GAIN:               -474
+    REPLAYGAIN_TRACK_RANGE:        1.76 dB
+    REPLAYGAIN_TRACK_PEAK:         1.008827
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/10. Cupid de Locke.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.6 LUFS
+    Threshold: -23.9 LUFS
+
+  Loudness range:
+    LRA:         9.5 LU
+    Threshold: -33.9 LUFS
+    LRA low:   -19.9 LUFS
+    LRA high:  -10.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.990692
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.990692
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991135
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:46.320
+    Samples:     12626712
+    Frames:      21474
+    Pregap LSN:  167555 (duration: 00:00:00.813)
+    Start LSN:   167616
+    End LSN:     189089 (with offset: 189090)
+
+  EAC CRC32:     52147390
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  DBB23A22
+    Accurip v2:  E248F253 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          f742a49d-e6d2-4760-9bd4-77b32ccb54ea
+    title:                         Galapogos
+    artist:                        The Smashing Pumpkins
+    track:                         11
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200902
+    creation_time:                 2025-11-24T02:12:24
+    REPLAYGAIN_TRACK_GAIN:         -4.44 dB
+    R128_TRACK_GAIN:               142
+    REPLAYGAIN_TRACK_RANGE:        9.47 dB
+    REPLAYGAIN_TRACK_PEAK:         0.991135
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/11. Galapogos.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.4 LUFS
+    Threshold: -20.6 LUFS
+
+  Loudness range:
+    LRA:         8.4 LU
+    Threshold: -30.6 LUFS
+    LRA low:   -17.5 LUFS
+    LRA high:   -9.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993927
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.993927
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.998251
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:43.920
+    Samples:     9874872
+    Frames:      16794
+    Pregap LSN:  189090 (duration: 00:00:00.000)
+    Start LSN:   189090
+    End LSN:     205883 (with offset: 205884)
+
+  EAC CRC32:     11BD5B15
+  Accurip:       disc found in database (max confidence: 163)
+    Accurip v1:  4C4FEE88
+    Accurip v2:  9A5C7375 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          bd866229-2880-4693-94a3-f1e39154f973
+    title:                         Muzzle
+    artist:                        The Smashing Pumpkins
+    track:                         12
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200903
+    creation_time:                 2025-11-24T02:15:10
+    REPLAYGAIN_TRACK_GAIN:         -7.57 dB
+    R128_TRACK_GAIN:               -659
+    REPLAYGAIN_TRACK_RANGE:        8.43 dB
+    REPLAYGAIN_TRACK_PEAK:         0.998251
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/12. Muzzle.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.8 LUFS
+    Threshold: -22.9 LUFS
+
+  Loudness range:
+    LRA:        17.0 LU
+    Threshold: -32.9 LUFS
+    LRA low:   -25.4 LUFS
+    LRA high:   -8.4 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997070
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.997070
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.996814
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:09:21.533
+    Samples:     24763620
+    Frames:      42115
+    Pregap LSN:  205743 (duration: 00:00:01.880)
+    Start LSN:   205884
+    End LSN:     247998 (with offset: 247999)
+
+  EAC CRC32:     880E7B14
+  Accurip:       disc found in database (max confidence: 160)
+    Accurip v1:  8EA0E8D7
+    Accurip v2:  224F1F48 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          7a5db67e-1882-431f-9535-a401c6d6c03a
+    title:                         Porcelina of the Vast Oceans
+    artist:                        The Smashing Pumpkins
+    track:                         13
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200904
+    creation_time:                 2025-11-24T02:17:24
+    REPLAYGAIN_TRACK_GAIN:         -6.25 dB
+    R128_TRACK_GAIN:               -319
+    REPLAYGAIN_TRACK_RANGE:        16.95 dB
+    REPLAYGAIN_TRACK_PEAK:         0.996813
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/13. Porcelina of the Vast Oceans.flac
+
+Track 14 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -14.5 LUFS
+    Threshold: -24.7 LUFS
+
+  Loudness range:
+    LRA:         7.4 LU
+    Threshold: -34.7 LUFS
+    LRA low:   -19.4 LUFS
+    LRA high:  -12.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987793
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987793
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988392
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:54.106
+    Samples:     7678104
+    Frames:      13058
+    Pregap LSN:  247754 (duration: 00:00:03.266)
+    Start LSN:   247999
+    End LSN:     261056
+    Appended:    1 frames of silence
+
+  EAC CRC32:     26031D5C
+  Accurip:       disc found in database (max confidence: 160)
+    Accurip v1:  78D27369
+    Accurip v2:  821AD2D4 (accurately ripped, confidence 10)
+
+  Metadata:
+    mbid:                          d19ee9ba-98ca-41e5-a394-d7af59cf70c9
+    title:                         Take Me Down
+    artist:                        The Smashing Pumpkins
+    track:                         14
+    tracktotal:                    14
+    disc_mcn:                      5099997855422
+    musicbrainz_discid:            0OZyYggx62noBVdyLWB7sSqqJ7M-
+    cddb:                          B60D980E
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2012-12-03
+    musicbrainz_albumid:           51367f4f-20ee-4624-a204-416492170e5a
+    album:                         Mellon Collie and the Infinite Sadness
+    barcode:                       5099997855323
+    packaging:                     Jewel Case
+    country:                       GB
+    releasestatus:                 Official
+    album_artist:                  The Smashing Pumpkins
+    totaldiscs:                    2
+    disc:                          1
+    discname:                      Dawn to Dusk
+    format:                        CD
+    isrc:                          USVI21200905
+    creation_time:                 2025-11-24T02:22:53
+    REPLAYGAIN_TRACK_GAIN:         -3.54 dB
+    R128_TRACK_GAIN:               374
+    REPLAYGAIN_TRACK_RANGE:        7.42 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988392
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    The Smashing Pumpkins - Mellon Collie and the Infinite Sadness [2012-12-03] [FLAC]/14. Take Me Down.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -11.2 LUFS
+    Threshold: -21.7 LUFS
+
+  Loudness range:
+    LRA:        11.4 LU
+    Threshold: -31.7 LUFS
+    LRA low:   -19.7 LUFS
+    LRA high:   -8.3 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+Tracks ripped accurately: 14/14
+
+Paranoia status counts:
+  READ:          21326
+  VERIFY:        1517
+  OVERLAP:       435
+
+Ripping errors: 0
+Ripping finished at 2025-11-24T02:24:30
+Log FUN512: tGr76RT.17XgtjnjX9wPVt1fYx0IyjUm_ltV9TKINofxH3cEPj2TE22QT18_cbFBn4aoXMBRAiG8CyY7TJGm1A

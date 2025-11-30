@@ -1,0 +1,88 @@
+REM GENRE Alternative
+REM DATE 2021
+REM DISCID 6A0A5A0A
+REM COMMENT "ExactAudioCopy v1.6"
+CATALOG 4050538661590
+PERFORMER "Chet Faker"
+TITLE "Hotel Surrender"
+REM COMPOSER ""
+FILE "01. Oh Me Oh My.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Oh Me Oh My"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100119
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "02. Low.wav" WAVE
+  TRACK 02 AUDIO
+    TITLE "Low"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100278
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "03. Get High.wav" WAVE
+  TRACK 03 AUDIO
+    TITLE "Get High"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100279
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "04. Whatever Tomorrow.wav" WAVE
+  TRACK 04 AUDIO
+    TITLE "Whatever Tomorrow"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100280
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "05. It’s Not You.wav" WAVE
+  TRACK 05 AUDIO
+    TITLE "It’s Not You"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100281
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "06. Peace of Mind.wav" WAVE
+  TRACK 06 AUDIO
+    TITLE "Peace of Mind"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100282
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "07. Feel Good.wav" WAVE
+  TRACK 07 AUDIO
+    TITLE "Feel Good"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100283
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "08. I Must Be Stupid.wav" WAVE
+  TRACK 08 AUDIO
+    TITLE "I Must Be Stupid"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100284
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "09. So Long So Lonely.wav" WAVE
+  TRACK 09 AUDIO
+    TITLE "So Long So Lonely"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100285
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "10. In Too Far.wav" WAVE
+  TRACK 10 AUDIO
+    TITLE "In Too Far"
+    PERFORMER "Chet Faker"
+    REM COMPOSER ""
+    ISRC AUOXM2100286
+    FLAGS DCP
+    INDEX 01 00:00:00
