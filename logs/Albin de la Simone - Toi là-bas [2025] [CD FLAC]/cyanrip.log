@@ -1,0 +1,851 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    10
+Tracks to rip:  all
+DiscID:         qcH6V5NLLY0e52pN.3bqzNVJcNc-
+Release ID:     5dcdbd63-e283-4a39-8d41-977c2ca51b88
+CDDB ID:        9507580A
+Disc MCN:       3700187688158
+Album:          Toi là-bas
+Album artist:   Albin de la Simone
+AccurateRip:    not found
+Total time:     00:31:20.280
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+
+Cover art destination(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         3.8 LU
+    Threshold: -28.2 LUFS
+    LRA low:   -10.5 LUFS
+    LRA high:   -6.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.990345
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:09.173
+    Samples:     10988544
+    Frames:      18688
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     18687 (with offset: 18688)
+
+  EAC CRC32:     24499D48
+  Accurip:       not found
+    Accurip v1:  7DA3F680
+    Accurip v2:  9267B25B
+    Accurip 450: F0EBEFE6
+
+  Metadata:
+    mbid:                          7e159cf0-5715-47ae-9efb-e11ef5cb5767
+    title:                         Toi là-bas
+    artist:                        Albin de la Simone
+    track:                         1
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401730
+    creation_time:                 2025-12-01T16:08:22
+    REPLAYGAIN_TRACK_GAIN:         -9.96 dB
+    R128_TRACK_GAIN:               -1270
+    REPLAYGAIN_TRACK_RANGE:        3.77 dB
+    REPLAYGAIN_TRACK_PEAK:         0.990345
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/01. Toi là-bas.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.6 LUFS
+    Threshold: -19.7 LUFS
+
+  Loudness range:
+    LRA:         4.4 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -7.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991037
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:57.613
+    Samples:     7832748
+    Frames:      13321
+    Pregap LSN:  18688 (duration: 00:00:00.000)
+    Start LSN:   18688
+    End LSN:     32008 (with offset: 32009)
+
+  EAC CRC32:     5C5B139A
+  Accurip:       not found
+    Accurip v1:  14E3D257
+    Accurip v2:  BBA1DDA5
+    Accurip 450: A8CE8436
+
+  Metadata:
+    mbid:                          29e7ddc7-814a-4c6f-9a87-26bb62624904
+    title:                         Pourquoi on pleure
+    artist:                        Albin de la Simone
+    track:                         2
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401740
+    creation_time:                 2025-12-01T16:11:29
+    REPLAYGAIN_TRACK_GAIN:         -8.41 dB
+    R128_TRACK_GAIN:               -874
+    REPLAYGAIN_TRACK_RANGE:        4.37 dB
+    REPLAYGAIN_TRACK_PEAK:         0.991037
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/02. Pourquoi on pleure.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.1 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -13.0 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.990384
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:37.066
+    Samples:     9572640
+    Frames:      16280
+    Pregap LSN:  32009 (duration: 00:00:00.000)
+    Start LSN:   32009
+    End LSN:     48288 (with offset: 48289)
+
+  EAC CRC32:     AF86325A
+  Accurip:       not found
+    Accurip v1:  10703CDC
+    Accurip v2:  979909DE
+    Accurip 450: 6D8EB111
+
+  Metadata:
+    mbid:                          3d739505-5ff5-459f-9784-a5beeff7cd86
+    title:                         Je te manque
+    artist:                        Albin de la Simone
+    track:                         3
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401750
+    creation_time:                 2025-12-01T16:13:49
+    REPLAYGAIN_TRACK_GAIN:         -8.89 dB
+    R128_TRACK_GAIN:               -997
+    REPLAYGAIN_TRACK_RANGE:        5.58 dB
+    REPLAYGAIN_TRACK_PEAK:         0.990384
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/03. Je te manque.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.8 LUFS
+    Threshold: -21.2 LUFS
+
+  Loudness range:
+    LRA:         6.7 LU
+    Threshold: -31.2 LUFS
+    LRA low:   -15.6 LUFS
+    LRA high:   -8.9 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987716
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:33.906
+    Samples:     6787284
+    Frames:      11543
+    Pregap LSN:  48289 (duration: 00:00:00.000)
+    Start LSN:   48289
+    End LSN:     59831 (with offset: 59832)
+
+  EAC CRC32:     C805C1C5
+  Accurip:       not found
+    Accurip v1:  A0862711
+    Accurip v2:  50FE0101
+    Accurip 450: 1CFDCE88
+
+  Metadata:
+    mbid:                          1535768f-5fc0-4092-be14-0ab2b199105a
+    title:                         C'est bien moi
+    artist:                        Albin de la Simone
+    track:                         4
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401760
+    creation_time:                 2025-12-01T16:16:24
+    REPLAYGAIN_TRACK_GAIN:         -7.16 dB
+    R128_TRACK_GAIN:               -552
+    REPLAYGAIN_TRACK_RANGE:        6.70 dB
+    REPLAYGAIN_TRACK_PEAK:         0.987716
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/04. C'est bien moi.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.9 LUFS
+    Threshold: -19.0 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -29.0 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -7.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988912
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:48.586
+    Samples:     7434672
+    Frames:      12644
+    Pregap LSN:  59832 (duration: 00:00:00.000)
+    Start LSN:   59832
+    End LSN:     72475 (with offset: 72476)
+
+  EAC CRC32:     9216E33F
+  Accurip:       not found
+    Accurip v1:  89C202AF
+    Accurip v2:  BE553F25
+    Accurip 450: B29954A4
+
+  Metadata:
+    mbid:                          bb0eab56-ca18-4f31-8ee5-b635d0f792a2
+    title:                         J'aime lire
+    artist:                        Albin de la Simone
+    track:                         5
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401770
+    creation_time:                 2025-12-01T16:18:12
+    REPLAYGAIN_TRACK_GAIN:         -9.08 dB
+    R128_TRACK_GAIN:               -1044
+    REPLAYGAIN_TRACK_RANGE:        4.74 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988912
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/05. J'aime lire.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.2 LUFS
+    Threshold: -23.3 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -33.3 LUFS
+    LRA low:   -15.8 LUFS
+    LRA high:  -11.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987778
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:19.240
+    Samples:     8786484
+    Frames:      14943
+    Pregap LSN:  72476 (duration: 00:00:00.000)
+    Start LSN:   72476
+    End LSN:     87418 (with offset: 87419)
+
+  EAC CRC32:     3E163190
+  Accurip:       not found
+    Accurip v1:  8847E1CF
+    Accurip v2:  3FB1F991
+    Accurip 450: 544ACE97
+
+  Metadata:
+    mbid:                          2b0d736e-81d3-468d-872a-3e72250de26c
+    title:                         La valse des lilas
+    artist:                        Albin de la Simone
+    track:                         6
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401780
+    creation_time:                 2025-12-01T16:20:05
+    REPLAYGAIN_TRACK_GAIN:         -4.79 dB
+    R128_TRACK_GAIN:               55
+    REPLAYGAIN_TRACK_RANGE:        4.73 dB
+    REPLAYGAIN_TRACK_PEAK:         0.987778
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/06. La valse des lilas.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.7 LUFS
+
+  Loudness range:
+    LRA:         4.3 LU
+    Threshold: -28.7 LUFS
+    LRA low:   -11.2 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.989280
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:33.560
+    Samples:     9417996
+    Frames:      16017
+    Pregap LSN:  87419 (duration: 00:00:00.000)
+    Start LSN:   87419
+    End LSN:     103435 (with offset: 103436)
+
+  EAC CRC32:     060621D6
+  Accurip:       not found
+    Accurip v1:  268B5127
+    Accurip v2:  CB7630B4
+    Accurip 450: 981B237A
+
+  Metadata:
+    mbid:                          f7d52105-364e-4a02-b4f3-7cec7ca10913
+    title:                         Non merci
+    artist:                        Albin de la Simone
+    track:                         7
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401790
+    creation_time:                 2025-12-01T16:22:18
+    REPLAYGAIN_TRACK_GAIN:         -9.57 dB
+    R128_TRACK_GAIN:               -1171
+    REPLAYGAIN_TRACK_RANGE:        4.34 dB
+    REPLAYGAIN_TRACK_PEAK:         0.989280
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/07. Non merci.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.3 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         5.5 LU
+    Threshold: -29.5 LUFS
+    LRA low:   -12.5 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988249
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:18.386
+    Samples:     6102852
+    Frames:      10379
+    Pregap LSN:  103436 (duration: 00:00:00.000)
+    Start LSN:   103436
+    End LSN:     113814 (with offset: 113815)
+
+  EAC CRC32:     0B0C3A76
+  Accurip:       not found
+    Accurip v1:  C6C8EECC
+    Accurip v2:  23BB2A70
+    Accurip 450: EBD01FB9
+
+  Metadata:
+    mbid:                          c5051df1-97a2-45fe-8b6a-32bee0bb881e
+    title:                         Et le temps s'arrêtait
+    artist:                        Albin de la Simone
+    track:                         8
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401800
+    creation_time:                 2025-12-01T16:24:37
+    REPLAYGAIN_TRACK_GAIN:         -8.75 dB
+    R128_TRACK_GAIN:               -959
+    REPLAYGAIN_TRACK_RANGE:        5.49 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988249
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/08. Et le temps s'arrêtait.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.1 LUFS
+    Threshold: -19.2 LUFS
+
+  Loudness range:
+    LRA:         5.3 LU
+    Threshold: -29.2 LUFS
+    LRA low:   -12.3 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988881
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:52.533
+    Samples:     7608720
+    Frames:      12940
+    Pregap LSN:  113815 (duration: 00:00:00.000)
+    Start LSN:   113815
+    End LSN:     126754 (with offset: 126755)
+
+  EAC CRC32:     160AE985
+  Accurip:       not found
+    Accurip v1:  6BEA5E8A
+    Accurip v2:  4630BC11
+    Accurip 450: 57485A94
+
+  Metadata:
+    mbid:                          78548a50-b0cd-49e8-a3b6-efddadb8dd7b
+    title:                         Avril 4000
+    artist:                        Albin de la Simone
+    track:                         9
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401810
+    creation_time:                 2025-12-01T16:26:08
+    REPLAYGAIN_TRACK_GAIN:         -8.94 dB
+    R128_TRACK_GAIN:               -1009
+    REPLAYGAIN_TRACK_RANGE:        5.31 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988881
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/09. Avril 4000.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.7 LUFS
+    Threshold: -21.0 LUFS
+
+  Loudness range:
+    LRA:         9.6 LU
+    Threshold: -31.0 LUFS
+    LRA low:   -15.6 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987396
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987396
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991594
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:10.213
+    Samples:     8388408
+    Frames:      14266
+    Pregap LSN:  126755 (duration: 00:00:00.000)
+    Start LSN:   126755
+    End LSN:     141020
+    Appended:    1 frames of silence
+
+  EAC CRC32:     AD181D03
+  Accurip:       not found
+    Accurip v1:  6A7720D6
+    Accurip v2:  EB9F7EA5
+    Accurip 450: DAB74B80
+
+  Metadata:
+    mbid:                          ab58d5ac-1a8e-480e-9fb9-59009510ae11
+    title:                         Ma gueule
+    artist:                        Albin de la Simone
+    track:                         10
+    tracktotal:                    10
+    disc_mcn:                      3700187688158
+    musicbrainz_discid:            qcH6V5NLLY0e52pN.3bqzNVJcNc-
+    cddb:                          9507580A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-03-07
+    musicbrainz_albumid:           5dcdbd63-e283-4a39-8d41-977c2ca51b88
+    album:                         Toi là-bas
+    country:                       FR
+    releasestatus:                 Official
+    album_artist:                  Albin de la Simone
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR79W2401820
+    creation_time:                 2025-12-01T16:27:53
+    REPLAYGAIN_TRACK_GAIN:         -7.35 dB
+    R128_TRACK_GAIN:               -601
+    REPLAYGAIN_TRACK_RANGE:        9.56 dB
+    REPLAYGAIN_TRACK_PEAK:         0.991594
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Albin de la Simone - Toi là-bas [2025-03-07] [CD FLAC]/10. Ma gueule.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -9.4 LUFS
+    Threshold: -19.6 LUFS
+
+  Loudness range:
+    LRA:         7.2 LU
+    Threshold: -29.7 LUFS
+    LRA low:   -14.2 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+Paranoia status counts:
+  READ:          11562
+  VERIFY:        822
+  FIXUP_ATOM:    4
+  OVERLAP:       231
+
+Ripping errors: 0
+Ripping finished at 2025-12-01T16:29:48
+Log FUN512: rgCAeGhAQJCD3xSbsDSdoiokvK9w2krbNcrTQ861zWCIfzAN7wue7TKaF5TZCK4qtHHkY0Ym5LKDypDMidGcYw

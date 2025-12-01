@@ -1,0 +1,1045 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    13
+Tracks to rip:  all
+DiscID:         q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+Release ID:     247d0335-5ab6-453c-ae4f-d284494322d9
+CDDB ID:        9B08A90D
+Disc MCN:       0000000000000
+Album:          Millenium
+Album artist:   Suzane
+AccurateRip:    not found
+Total time:     00:36:57.933
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    0 frame pregap in track 12, merging into track 11
+    0 frame pregap in track 13, merging into track 12
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.7 LUFS
+    Threshold: -17.8 LUFS
+
+  Loudness range:
+    LRA:         6.5 LU
+    Threshold: -27.8 LUFS
+    LRA low:   -11.9 LUFS
+    LRA high:   -5.4 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987610
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987610
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.007611
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:18.120
+    Samples:     8737092
+    Frames:      14859
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     14858 (with offset: 14859)
+
+  EAC CRC32:     4CDD0985
+  Accurip:       not found
+    Accurip v1:  DC5BCA9B
+    Accurip v2:  F5B660EF
+    Accurip 450: 8ACDA5A4
+
+  Metadata:
+    mbid:                          b9ee2a5a-9992-418f-a40f-fb88c6eddd98
+    title:                         Marche ou rêve
+    artist:                        Suzane
+    track:                         1
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500020
+    creation_time:                 2025-11-30T20:59:32
+    REPLAYGAIN_TRACK_GAIN:         -10.31 dB
+    R128_TRACK_GAIN:               -1359
+    REPLAYGAIN_TRACK_RANGE:        6.45 dB
+    REPLAYGAIN_TRACK_PEAK:         1.007611
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/01. Marche ou rêve.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.8 LUFS
+    Threshold: -18.9 LUFS
+
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -28.9 LUFS
+    LRA low:   -11.0 LUFS
+    LRA high:   -7.3 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987885
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.987885
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.008828
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:33.146
+    Samples:     6753768
+    Frames:      11486
+    Pregap LSN:  14859 (duration: 00:00:00.000)
+    Start LSN:   14859
+    End LSN:     26344 (with offset: 26345)
+
+  EAC CRC32:     9F8C90B6
+  Accurip:       not found
+    Accurip v1:  C55DFED6
+    Accurip v2:  9D306370
+    Accurip 450: F2CB6784
+
+  Metadata:
+    mbid:                          78a513db-661b-45ce-a458-cce4deab6e96
+    title:                         T’as raté
+    artist:                        Suzane
+    track:                         2
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500030
+    creation_time:                 2025-11-30T21:01:20
+    REPLAYGAIN_TRACK_GAIN:         -9.18 dB
+    R128_TRACK_GAIN:               -1070
+    REPLAYGAIN_TRACK_RANGE:        3.73 dB
+    REPLAYGAIN_TRACK_PEAK:         1.008828
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/02. T’as raté.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.6 LUFS
+
+  Loudness range:
+    LRA:         4.8 LU
+    Threshold: -28.6 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -6.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.089828
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:38.573
+    Samples:     6993084
+    Frames:      11893
+    Pregap LSN:  26345 (duration: 00:00:00.000)
+    Start LSN:   26345
+    End LSN:     38237 (with offset: 38238)
+
+  EAC CRC32:     D3A9B067
+  Accurip:       not found
+    Accurip v1:  63F2E76E
+    Accurip v2:  34B285B0
+    Accurip 450: 78B0A356
+
+  Metadata:
+    mbid:                          85309213-f9d5-4595-9888-452fe58f5333
+    title:                         Virile
+    artist:                        Suzane
+    track:                         3
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500040
+    creation_time:                 2025-11-30T21:02:52
+    REPLAYGAIN_TRACK_GAIN:         -9.61 dB
+    R128_TRACK_GAIN:               -1181
+    REPLAYGAIN_TRACK_RANGE:        4.79 dB
+    REPLAYGAIN_TRACK_PEAK:         1.089828
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/03. Virile.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.8 LUFS
+    Threshold: -18.0 LUFS
+
+  Loudness range:
+    LRA:         6.5 LU
+    Threshold: -28.0 LUFS
+    LRA low:   -12.6 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.092287
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:17.533
+    Samples:     6065220
+    Frames:      10315
+    Pregap LSN:  38238 (duration: 00:00:00.000)
+    Start LSN:   38238
+    End LSN:     48552 (with offset: 48553)
+
+  EAC CRC32:     91910B00
+  Accurip:       not found
+    Accurip v1:  5573E457
+    Accurip v2:  836BC90C
+    Accurip 450: 9A5D9C93
+
+  Metadata:
+    mbid:                          474899cb-faf8-44b7-8609-d7be46aeed19
+    title:                         Humanoïdes
+    artist:                        Suzane
+    track:                         4
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500050
+    creation_time:                 2025-11-30T21:04:19
+    REPLAYGAIN_TRACK_GAIN:         -10.23 dB
+    R128_TRACK_GAIN:               -1338
+    REPLAYGAIN_TRACK_RANGE:        6.45 dB
+    REPLAYGAIN_TRACK_PEAK:         1.092287
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/04. Humanoïdes.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.4 LUFS
+    Threshold: -17.6 LUFS
+
+  Loudness range:
+    LRA:         6.2 LU
+    Threshold: -27.5 LUFS
+    LRA low:   -12.3 LUFS
+    LRA high:   -6.1 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999969
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999969
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.102344
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:09.973
+    Samples:     8377824
+    Frames:      14248
+    Pregap LSN:  48553 (duration: 00:00:00.000)
+    Start LSN:   48553
+    End LSN:     62800 (with offset: 62801)
+
+  EAC CRC32:     5F482F15
+  Accurip:       not found
+    Accurip v1:  C8E3F3A8
+    Accurip v2:  D92A2CED
+    Accurip 450: EFFB319B
+
+  Metadata:
+    mbid:                          c5528c07-a5c1-46c7-be64-74858adb3a8c
+    title:                         Champagne
+    artist:                        Suzane
+    track:                         5
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500060
+    creation_time:                 2025-11-30T21:05:37
+    REPLAYGAIN_TRACK_GAIN:         -10.63 dB
+    R128_TRACK_GAIN:               -1442
+    REPLAYGAIN_TRACK_RANGE:        6.19 dB
+    REPLAYGAIN_TRACK_PEAK:         1.102344
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/05. Champagne.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.4 LUFS
+
+  Loudness range:
+    LRA:         6.9 LU
+    Threshold: -29.4 LUFS
+    LRA low:   -14.1 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988251
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988251
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.005843
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:49.453
+    Samples:     7472892
+    Frames:      12709
+    Pregap LSN:  62801 (duration: 00:00:00.000)
+    Start LSN:   62801
+    End LSN:     75509 (with offset: 75510)
+
+  EAC CRC32:     56D2ACD6
+  Accurip:       not found
+    Accurip v1:  ED61C464
+    Accurip v2:  E07E7FAD
+    Accurip 450: F3ECC001
+
+  Metadata:
+    mbid:                          a491a387-bb6e-40b2-89b7-273772f64dcb
+    title:                         Je t’accuse
+    artist:                        Suzane
+    track:                         6
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500010
+    creation_time:                 2025-11-30T21:07:19
+    REPLAYGAIN_TRACK_GAIN:         -8.76 dB
+    R128_TRACK_GAIN:               -963
+    REPLAYGAIN_TRACK_RANGE:        6.91 dB
+    REPLAYGAIN_TRACK_PEAK:         1.005843
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/06. Je t’accuse.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.4 LUFS
+    Threshold: -18.8 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -28.7 LUFS
+    LRA low:   -11.3 LUFS
+    LRA high:   -7.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988251
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988251
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.007440
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:57.386
+    Samples:     7822752
+    Frames:      13304
+    Pregap LSN:  75510 (duration: 00:00:00.000)
+    Start LSN:   75510
+    End LSN:     88813 (with offset: 88814)
+
+  EAC CRC32:     4AB14B38
+  Accurip:       not found
+    Accurip v1:  4667AE50
+    Accurip v2:  74D1C21F
+    Accurip 450: C3FD9608
+
+  Metadata:
+    mbid:                          a2b90f5c-00b8-4ece-ab4b-2e5750c1c3b0
+    title:                         Un sens à tout ça
+    artist:                        Suzane
+    track:                         7
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500070
+    creation_time:                 2025-11-30T21:08:50
+    REPLAYGAIN_TRACK_GAIN:         -9.58 dB
+    R128_TRACK_GAIN:               -1171
+    REPLAYGAIN_TRACK_RANGE:        4.11 dB
+    REPLAYGAIN_TRACK_PEAK:         1.007440
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/07. Un sens à tout ça.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.7 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         7.1 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -15.7 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.078095
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:59.080
+    Samples:     7897428
+    Frames:      13431
+    Pregap LSN:  88814 (duration: 00:00:00.000)
+    Start LSN:   88814
+    End LSN:     102244 (with offset: 102245)
+
+  EAC CRC32:     64BF6589
+  Accurip:       not found
+    Accurip v1:  7803A756
+    Accurip v2:  EBFFD076
+    Accurip 450: C4D7D57B
+
+  Metadata:
+    mbid:                          5b189d62-aadc-4b0e-8252-18482c5f832d
+    title:                         Plus que moi
+    artist:                        Suzane feat. Youssoupha
+    track:                         8
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500080
+    creation_time:                 2025-11-30T21:10:26
+    REPLAYGAIN_TRACK_GAIN:         -7.33 dB
+    R128_TRACK_GAIN:               -596
+    REPLAYGAIN_TRACK_RANGE:        7.13 dB
+    REPLAYGAIN_TRACK_PEAK:         1.078095
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/08. Plus que moi.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.9 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -27.0 LUFS
+    LRA low:    -8.9 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.132210
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:22.146
+    Samples:     6268668
+    Frames:      10661
+    Pregap LSN:  102245 (duration: 00:00:00.000)
+    Start LSN:   102245
+    End LSN:     112905 (with offset: 112906)
+
+  EAC CRC32:     E9488EAF
+  Accurip:       not found
+    Accurip v1:  F1BD7249
+    Accurip v2:  0D9C9E7F
+    Accurip 450: E42ED25D
+
+  Metadata:
+    mbid:                          127012fe-4a0d-460f-8b11-ec0f00854f1b
+    title:                         Dégaine
+    artist:                        Suzane
+    track:                         9
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500090
+    creation_time:                 2025-11-30T21:11:59
+    REPLAYGAIN_TRACK_GAIN:         -11.08 dB
+    R128_TRACK_GAIN:               -1556
+    REPLAYGAIN_TRACK_RANGE:        3.21 dB
+    REPLAYGAIN_TRACK_PEAK:         1.132210
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/09. Dégaine.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.1 LUFS
+
+  Loudness range:
+    LRA:         5.3 LU
+    Threshold: -28.0 LUFS
+    LRA low:   -11.3 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.9 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999969
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999969
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.111794
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:03.253
+    Samples:     8081472
+    Frames:      13744
+    Pregap LSN:  112906 (duration: 00:00:00.000)
+    Start LSN:   112906
+    End LSN:     126649 (with offset: 126650)
+
+  EAC CRC32:     A4B7535B
+  Accurip:       not found
+    Accurip v1:  8A5C4FD2
+    Accurip v2:  71700C62
+    Accurip 450: A6F49C7D
+
+  Metadata:
+    mbid:                          ebb1d8e9-3edf-41d2-a514-b81fcecfb2e8
+    title:                         Lendemain de fête
+    artist:                        Suzane
+    track:                         10
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500130
+    creation_time:                 2025-11-30T21:13:11
+    REPLAYGAIN_TRACK_GAIN:         -10.05 dB
+    R128_TRACK_GAIN:               -1292
+    REPLAYGAIN_TRACK_RANGE:        5.31 dB
+    REPLAYGAIN_TRACK_PEAK:         1.111794
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/10. Lendemain de fête.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.1 LUFS
+    Threshold: -18.3 LUFS
+
+  Loudness range:
+    LRA:         6.6 LU
+    Threshold: -28.3 LUFS
+    LRA low:   -13.3 LUFS
+    LRA high:   -6.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.121182
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:52.653
+    Samples:     7614012
+    Frames:      12949
+    Pregap LSN:  126650 (duration: 00:00:00.000)
+    Start LSN:   126650
+    End LSN:     139598 (with offset: 139599)
+
+  EAC CRC32:     07415642
+  Accurip:       not found
+    Accurip v1:  7147F1F5
+    Accurip v2:  A26035E5
+    Accurip 450: 28AE2BD0
+
+  Metadata:
+    mbid:                          f18a370e-232b-408a-8d6b-0b34a11a5e35
+    title:                         Au grand jour
+    artist:                        Suzane
+    track:                         11
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500100
+    creation_time:                 2025-11-30T21:14:42
+    REPLAYGAIN_TRACK_GAIN:         -9.95 dB
+    R128_TRACK_GAIN:               -1267
+    REPLAYGAIN_TRACK_RANGE:        6.65 dB
+    REPLAYGAIN_TRACK_PEAK:         1.121182
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/11. Au grand jour.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.9 LUFS
+    Threshold: -18.0 LUFS
+
+  Loudness range:
+    LRA:         5.4 LU
+    Threshold: -27.9 LUFS
+    LRA low:   -11.6 LUFS
+    LRA high:   -6.2 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        1.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.117224
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:31.253
+    Samples:     6670272
+    Frames:      11344
+    Pregap LSN:  139599 (duration: 00:00:00.000)
+    Start LSN:   139599
+    End LSN:     150942 (with offset: 150943)
+
+  EAC CRC32:     46D191DA
+  Accurip:       not found
+    Accurip v1:  4324BA74
+    Accurip v2:  4A4583B4
+    Accurip 450: 4252C4AF
+
+  Metadata:
+    mbid:                          ab1777b8-dfc9-43e2-841c-690eea1fbf0f
+    title:                         Millénium
+    artist:                        Suzane
+    track:                         12
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500120
+    creation_time:                 2025-11-30T21:16:07
+    REPLAYGAIN_TRACK_GAIN:         -10.12 dB
+    R128_TRACK_GAIN:               -1312
+    REPLAYGAIN_TRACK_RANGE:        5.35 dB
+    REPLAYGAIN_TRACK_PEAK:         1.117224
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/12. Millénium.flac
+
+Track 13 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.0 LUFS
+    Threshold: -18.0 LUFS
+
+  Loudness range:
+    LRA:         7.7 LU
+    Threshold: -28.0 LUFS
+    LRA low:   -13.2 LUFS
+    LRA high:   -5.6 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988464
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.988464
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.082763
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:25.360
+    Samples:     9056376
+    Frames:      15402
+    Pregap LSN:  150943 (duration: 00:00:00.000)
+    Start LSN:   150943
+    End LSN:     166344
+    Appended:    1 frames of silence
+
+  EAC CRC32:     0F015183
+  Accurip:       not found
+    Accurip v1:  BA2FEDAC
+    Accurip v2:  D161E473
+    Accurip 450: 8D071B9F
+
+  Metadata:
+    mbid:                          2d1613a6-95c4-42be-91b6-cc1caf14d9af
+    title:                         À la vie
+    artist:                        Suzane
+    track:                         13
+    tracktotal:                    13
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            q4dAHFTxhqGolPH_2qyp.ZGCmfw-
+    cddb:                          9B08A90D
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025
+    musicbrainz_albumid:           247d0335-5ab6-453c-ae4f-d284494322d9
+    album:                         Millenium
+    barcode:                       3596974872929
+    country:                       FR
+    album_artist:                  Suzane
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FRERA2500110
+    creation_time:                 2025-11-30T21:17:20
+    REPLAYGAIN_TRACK_GAIN:         -10.05 dB
+    R128_TRACK_GAIN:               -1292
+    REPLAYGAIN_TRACK_RANGE:        7.69 dB
+    REPLAYGAIN_TRACK_PEAK:         1.082763
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Suzane - Millenium [2025] [CD FLAC]/13. À la vie.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -8.1 LUFS
+    Threshold: -18.3 LUFS
+
+  Loudness range:
+    LRA:         6.9 LU
+    Threshold: -28.4 LUFS
+    LRA low:   -12.9 LUFS
+    LRA high:   -6.0 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        1.1 dBFS
+
+Paranoia status counts:
+  READ:          13608
+  VERIFY:        954
+  OVERLAP:       272
+
+Ripping errors: 0
+Ripping finished at 2025-11-30T21:18:57
+Log FUN512: vVvxbYFoEonwpBXx6n0Ird16TpCTgnzXPZW4Q_Q_c.Pq4qP8vsafrlpv2wse.RuYSpHNtsFCejsC4cxL7evOOg

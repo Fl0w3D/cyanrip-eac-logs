@@ -1,0 +1,92 @@
+REM MUSICBRAINZ_ID "q4dAHFTxhqGolPH_2qyp.ZGCmfw-"
+REM DISCID "9B08A90D"
+REM MEDIA "CD"
+REM COMMENT "cyanrip 0.9.3-uf0.6"
+REM DATE "2025"
+REM MUSICBRAINZ_ALBUMID "247d0335-5ab6-453c-ae4f-d284494322d9"
+REM BARCODE "3596974872929"
+REM COUNTRY "FR"
+REM TOTALDISCS "1"
+REM DISC "1"
+REM FORMAT "CD"
+CATALOG 0000000000000
+PERFORMER "Suzane"
+TITLE "Millenium"
+FILE "01. Marche ou rêve.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Marche ou rêve"
+    PERFORMER "Suzane"
+    ISRC FRERA2500020
+    INDEX 01 00:00:00
+FILE "02. T’as raté.flac" WAVE
+  TRACK 02 AUDIO
+    TITLE "T’as raté"
+    PERFORMER "Suzane"
+    ISRC FRERA2500030
+    INDEX 01 00:00:00
+FILE "03. Virile.flac" WAVE
+  TRACK 03 AUDIO
+    TITLE "Virile"
+    PERFORMER "Suzane"
+    ISRC FRERA2500040
+    INDEX 01 00:00:00
+FILE "04. Humanoïdes.flac" WAVE
+  TRACK 04 AUDIO
+    TITLE "Humanoïdes"
+    PERFORMER "Suzane"
+    ISRC FRERA2500050
+    INDEX 01 00:00:00
+FILE "05. Champagne.flac" WAVE
+  TRACK 05 AUDIO
+    TITLE "Champagne"
+    PERFORMER "Suzane"
+    ISRC FRERA2500060
+    INDEX 01 00:00:00
+FILE "06. Je t’accuse.flac" WAVE
+  TRACK 06 AUDIO
+    TITLE "Je t’accuse"
+    PERFORMER "Suzane"
+    ISRC FRERA2500010
+    INDEX 01 00:00:00
+FILE "07. Un sens à tout ça.flac" WAVE
+  TRACK 07 AUDIO
+    TITLE "Un sens à tout ça"
+    PERFORMER "Suzane"
+    ISRC FRERA2500070
+    INDEX 01 00:00:00
+FILE "08. Plus que moi.flac" WAVE
+  TRACK 08 AUDIO
+    TITLE "Plus que moi"
+    PERFORMER "Suzane feat. Youssoupha"
+    ISRC FRERA2500080
+    INDEX 01 00:00:00
+FILE "09. Dégaine.flac" WAVE
+  TRACK 09 AUDIO
+    TITLE "Dégaine"
+    PERFORMER "Suzane"
+    ISRC FRERA2500090
+    INDEX 01 00:00:00
+FILE "10. Lendemain de fête.flac" WAVE
+  TRACK 10 AUDIO
+    TITLE "Lendemain de fête"
+    PERFORMER "Suzane"
+    ISRC FRERA2500130
+    INDEX 01 00:00:00
+FILE "11. Au grand jour.flac" WAVE
+  TRACK 11 AUDIO
+    TITLE "Au grand jour"
+    PERFORMER "Suzane"
+    ISRC FRERA2500100
+    INDEX 01 00:00:00
+FILE "12. Millénium.flac" WAVE
+  TRACK 12 AUDIO
+    TITLE "Millénium"
+    PERFORMER "Suzane"
+    ISRC FRERA2500120
+    INDEX 01 00:00:00
+FILE "13. À la vie.flac" WAVE
+  TRACK 13 AUDIO
+    TITLE "À la vie"
+    PERFORMER "Suzane"
+    ISRC FRERA2500110
+    INDEX 01 00:00:00

@@ -1,0 +1,88 @@
+REM GENRE Pop
+REM DATE 2025
+REM DISCID 9507580A
+REM COMMENT "ExactAudioCopy v1.6"
+CATALOG 3700187688158
+PERFORMER "Albin De La Simone"
+TITLE "Toi Là-Bas"
+REM COMPOSER ""
+FILE "01. Toi Là-Bas.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Toi Là-Bas"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401730
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "02. Pourquoi On Pleure.wav" WAVE
+  TRACK 02 AUDIO
+    TITLE "Pourquoi On Pleure"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401740
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "03. Je Te Manque.wav" WAVE
+  TRACK 03 AUDIO
+    TITLE "Je Te Manque"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401750
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "04. C'Est Bien Moi.wav" WAVE
+  TRACK 04 AUDIO
+    TITLE "C'Est Bien Moi"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401760
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "05. J'Aime Lire.wav" WAVE
+  TRACK 05 AUDIO
+    TITLE "J'Aime Lire"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401770
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "06. La Valse Des Lilas.wav" WAVE
+  TRACK 06 AUDIO
+    TITLE "La Valse Des Lilas"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401780
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "07. Non Merci.wav" WAVE
+  TRACK 07 AUDIO
+    TITLE "Non Merci"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401790
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "08. Et Le Temps S'Arrêtait.wav" WAVE
+  TRACK 08 AUDIO
+    TITLE "Et Le Temps S'Arrêtait"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401800
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "09. Avril 4000.wav" WAVE
+  TRACK 09 AUDIO
+    TITLE "Avril 4000"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401810
+    FLAGS DCP
+    INDEX 01 00:00:00
+FILE "10. Ma Gueule.wav" WAVE
+  TRACK 10 AUDIO
+    TITLE "Ma Gueule"
+    PERFORMER "Albin De La Simone"
+    REM COMPOSER ""
+    ISRC FR79W2401820
+    FLAGS DCP
+    INDEX 01 00:00:00

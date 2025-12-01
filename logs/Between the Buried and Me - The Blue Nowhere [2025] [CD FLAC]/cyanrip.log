@@ -1,0 +1,829 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    10
+Tracks to rip:  all
+DiscID:         pHhQlQQKksrc16KV.GRph3aeMdg-
+Release ID:     2110ddfe-eba9-4fba-b5ad-1ad55da66404
+CDDB ID:        8F10B90A
+Disc MCN:       0000000000000
+Album:          The Blue Nowhere
+Album artist:   Between the Buried and Me
+AccurateRip:    found
+Total time:     01:11:21.000
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.3 LUFS
+
+  Loudness range:
+    LRA:         4.0 LU
+    Threshold: -27.3 LUFS
+    LRA low:    -9.7 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.999969
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.999969
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.017137
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:07:59.040
+    Samples:     21125664
+    Frames:      35928
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     35927 (with offset: 35928)
+
+  EAC CRC32:     05FCD8AE
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  C21F05DB
+    Accurip v2:  61A293BE (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          70e00976-891b-4b76-bfba-ee34c2ce5c6c
+    title:                         Things We Tell Ourselves in the Dark
+    artist:                        Between the Buried and Me
+    track:                         1
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556101
+    creation_time:                 2025-12-01T01:13:19
+    REPLAYGAIN_TRACK_GAIN:         -10.73 dB
+    R128_TRACK_GAIN:               -1466
+    REPLAYGAIN_TRACK_RANGE:        3.99 dB
+    REPLAYGAIN_TRACK_PEAK:         1.017136
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/01. Things We Tell Ourselves in the Dark.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.2 LUFS
+    Threshold: -17.6 LUFS
+
+  Loudness range:
+    LRA:        12.1 LU
+    Threshold: -27.6 LUFS
+    LRA low:   -17.6 LUFS
+    LRA high:   -5.4 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995850
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.995850
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995622
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:41.146
+    Samples:     17690568
+    Frames:      30086
+    Pregap LSN:  35928 (duration: 00:00:00.000)
+    Start LSN:   35928
+    End LSN:     66013 (with offset: 66014)
+
+  EAC CRC32:     3896ED89
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  568B0A8E
+    Accurip v2:  5BEB2C1B (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          470d95f7-d9de-420a-a8d1-4be210980be2
+    title:                         God Terror
+    artist:                        Between the Buried and Me
+    track:                         2
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556102
+    creation_time:                 2025-12-01T01:19:08
+    REPLAYGAIN_TRACK_GAIN:         -10.76 dB
+    R128_TRACK_GAIN:               -1475
+    REPLAYGAIN_TRACK_RANGE:        12.14 dB
+    REPLAYGAIN_TRACK_PEAK:         0.995622
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/02. God Terror.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.0 LUFS
+    Threshold: -17.0 LUFS
+
+  Loudness range:
+    LRA:         3.8 LU
+    Threshold: -27.0 LUFS
+    LRA low:    -9.6 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000000
+
+  Sample peak relative amplitude (precise):
+    Peak:        1.000000
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.022867
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:10:28.453
+    Samples:     27714792
+    Frames:      47134
+    Pregap LSN:  66014 (duration: 00:00:00.000)
+    Start LSN:   66014
+    End LSN:     113147 (with offset: 113148)
+
+  EAC CRC32:     E65B3A02
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  1CF10AB6
+    Accurip v2:  9DC64FEA (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          6b6a0bdc-a61e-4977-a73d-c79a44f04cec
+    title:                         Absent Thereafter
+    artist:                        Between the Buried and Me
+    track:                         3
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556103
+    creation_time:                 2025-12-01T01:23:48
+    REPLAYGAIN_TRACK_GAIN:         -11.05 dB
+    R128_TRACK_GAIN:               -1549
+    REPLAYGAIN_TRACK_RANGE:        3.76 dB
+    REPLAYGAIN_TRACK_PEAK:         1.022867
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/03. Absent Thereafter.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.5 LUFS
+    Threshold: -23.6 LUFS
+
+  Loudness range:
+    LRA:         9.1 LU
+    Threshold: -33.6 LUFS
+    LRA low:   -18.3 LUFS
+    LRA high:   -9.2 LUFS
+
+  Sample peak:
+    Peak:       -0.2 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.975891
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.975891
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.980196
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:48.773
+    Samples:     7442904
+    Frames:      12658
+    Pregap LSN:  113148 (duration: 00:00:00.000)
+    Start LSN:   113148
+    End LSN:     125805 (with offset: 125806)
+
+  EAC CRC32:     DEBDE2D2
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  8B6CD27C
+    Accurip v2:  0A24CB89 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          f912e92b-b148-47b5-9e6e-3b7255107262
+    title:                         Pause
+    artist:                        Between the Buried and Me
+    track:                         4
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556104
+    creation_time:                 2025-12-01T01:30:43
+    REPLAYGAIN_TRACK_GAIN:         -4.50 dB
+    R128_TRACK_GAIN:               128
+    REPLAYGAIN_TRACK_RANGE:        9.09 dB
+    REPLAYGAIN_TRACK_PEAK:         0.980196
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/04. Pause.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.8 LUFS
+    Threshold: -16.8 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -26.8 LUFS
+    LRA low:   -10.5 LUFS
+    LRA high:   -5.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993164
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.993164
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.009844
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:05:57.986
+    Samples:     15787212
+    Frames:      26849
+    Pregap LSN:  125806 (duration: 00:00:00.000)
+    Start LSN:   125806
+    End LSN:     152654 (with offset: 152655)
+
+  EAC CRC32:     514500B7
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  455D617B
+    Accurip v2:  8A9D7CF1 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          263d3679-a450-40d7-947c-85a265e792fd
+    title:                         Door #3
+    artist:                        Between the Buried and Me
+    track:                         5
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556105
+    creation_time:                 2025-12-01T01:32:34
+    REPLAYGAIN_TRACK_GAIN:         -11.23 dB
+    R128_TRACK_GAIN:               -1594
+    REPLAYGAIN_TRACK_RANGE:        4.97 dB
+    REPLAYGAIN_TRACK_PEAK:         1.009844
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/05. Door #3.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.2 LUFS
+    Threshold: -23.2 LUFS
+
+  Loudness range:
+    LRA:        14.1 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -21.5 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.984497
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.984497
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987233
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:00:52.066
+    Samples:     2296140
+    Frames:      3905
+    Pregap LSN:  152655 (duration: 00:00:00.000)
+    Start LSN:   152655
+    End LSN:     156559 (with offset: 156560)
+
+  EAC CRC32:     E274FB99
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  3B924644
+    Accurip v2:  D604E931 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          ef44d9aa-783a-4adb-8708-5cb9a3c1e020
+    title:                         Mirador Uncoil
+    artist:                        Between the Buried and Me
+    track:                         6
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556106
+    creation_time:                 2025-12-01T01:36:26
+    REPLAYGAIN_TRACK_GAIN:         -4.84 dB
+    R128_TRACK_GAIN:               40
+    REPLAYGAIN_TRACK_RANGE:        14.09 dB
+    REPLAYGAIN_TRACK_PEAK:         0.987233
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/06. Mirador Uncoil.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -6.8 LUFS
+    Threshold: -16.9 LUFS
+
+  Loudness range:
+    LRA:         3.4 LU
+    Threshold: -26.9 LUFS
+    LRA low:    -9.1 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993744
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.993744
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.006478
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:11:12.293
+    Samples:     29648136
+    Frames:      50422
+    Pregap LSN:  156560 (duration: 00:00:00.000)
+    Start LSN:   156560
+    End LSN:     206981 (with offset: 206982)
+
+  EAC CRC32:     E38213B6
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  B03DA11E
+    Accurip v2:  2D916366 (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          81376132-33b0-445c-b6aa-eb4671652c1c
+    title:                         Psychomanteum
+    artist:                        Between the Buried and Me
+    track:                         7
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556107
+    creation_time:                 2025-12-01T01:36:59
+    REPLAYGAIN_TRACK_GAIN:         -11.16 dB
+    R128_TRACK_GAIN:               -1577
+    REPLAYGAIN_TRACK_RANGE:        3.38 dB
+    REPLAYGAIN_TRACK_PEAK:         1.006478
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/07. Psychomanteum.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.1 LUFS
+    Threshold: -17.4 LUFS
+
+  Loudness range:
+    LRA:         6.7 LU
+    Threshold: -27.4 LUFS
+    LRA low:   -12.5 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.0 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.995087
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.995087
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.010657
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:11:28.186
+    Samples:     30349032
+    Frames:      51614
+    Pregap LSN:  206982 (duration: 00:00:00.000)
+    Start LSN:   206982
+    End LSN:     258595 (with offset: 258596)
+
+  EAC CRC32:     6F804EFA
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  4CD8003F
+    Accurip v2:  6BE0D34B (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          e5010017-2fdc-48ee-aa11-ce29c5fc840c
+    title:                         Slow Paranoia
+    artist:                        Between the Buried and Me
+    track:                         8
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556108
+    creation_time:                 2025-12-01T01:43:53
+    REPLAYGAIN_TRACK_GAIN:         -10.86 dB
+    R128_TRACK_GAIN:               -1500
+    REPLAYGAIN_TRACK_RANGE:        6.73 dB
+    REPLAYGAIN_TRACK_PEAK:         1.010657
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/08. Slow Paranoia.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -7.8 LUFS
+    Threshold: -18.2 LUFS
+
+  Loudness range:
+    LRA:         9.4 LU
+    Threshold: -28.2 LUFS
+    LRA low:   -15.2 LUFS
+    LRA high:   -5.8 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991119
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.991119
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.993341
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:06:01.066
+    Samples:     15923040
+    Frames:      27080
+    Pregap LSN:  258596 (duration: 00:00:00.000)
+    Start LSN:   258596
+    End LSN:     285675 (with offset: 285676)
+
+  EAC CRC32:     6B68CC9D
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  9FBEEBE5
+    Accurip v2:  DAEE4BBA (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          01014f64-cb36-4fb8-bc37-916028ed4771
+    title:                         The Blue Nowhere
+    artist:                        Between the Buried and Me
+    track:                         9
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556109
+    creation_time:                 2025-12-01T01:50:39
+    REPLAYGAIN_TRACK_GAIN:         -10.19 dB
+    R128_TRACK_GAIN:               -1329
+    REPLAYGAIN_TRACK_RANGE:        9.42 dB
+    REPLAYGAIN_TRACK_PEAK:         0.993341
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/09. The Blue Nowhere.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -8.2 LUFS
+    Threshold: -18.4 LUFS
+
+  Loudness range:
+    LRA:        11.0 LU
+    Threshold: -28.4 LUFS
+    LRA low:   -16.7 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:       -0.1 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.991974
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.991974
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.003290
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:07:51.986
+    Samples:     20814612
+    Frames:      35399
+    Pregap LSN:  285676 (duration: 00:00:00.000)
+    Start LSN:   285676
+    End LSN:     321074
+    Appended:    1 frames of silence
+
+  EAC CRC32:     CDC39913
+  Accurip:       disc found in database (max confidence: 3)
+    Accurip v1:  94F8C24A
+    Accurip v2:  17DC546E (accurately ripped, confidence 3)
+
+  Metadata:
+    mbid:                          a6d861fe-1d48-4123-bf1d-e07699eafbc5
+    title:                         Beautifully Human
+    artist:                        Between the Buried and Me
+    track:                         10
+    tracktotal:                    10
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            pHhQlQQKksrc16KV.GRph3aeMdg-
+    cddb:                          8F10B90A
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-09-12
+    musicbrainz_albumid:           2110ddfe-eba9-4fba-b5ad-1ad55da66404
+    album:                         The Blue Nowhere
+    barcode:                       198029380422
+    packaging:                     Gatefold Cover
+    country:                       XE
+    releasestatus:                 Official
+    album_artist:                  Between the Buried and Me
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          GBDHC2556110
+    creation_time:                 2025-12-01T01:54:06
+    REPLAYGAIN_TRACK_GAIN:         -9.78 dB
+    R128_TRACK_GAIN:               -1225
+    REPLAYGAIN_TRACK_RANGE:        11.04 dB
+    REPLAYGAIN_TRACK_PEAK:         1.003290
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Between the Buried and Me - The Blue Nowhere [2025-09-12] [CD FLAC]/10. Beautifully Human.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:          -7.3 LUFS
+    Threshold: -17.5 LUFS
+
+  Loudness range:
+    LRA:         9.2 LU
+    Threshold: -27.5 LUFS
+    LRA low:   -14.9 LUFS
+    LRA high:   -5.7 LUFS
+
+  Sample peak:
+    Peak:        0.0 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+Tracks ripped accurately: 10/10
+
+Paranoia status counts:
+  READ:          26014
+  VERIFY:        1689
+  OVERLAP:       525
+
+Ripping errors: 0
+Ripping finished at 2025-12-01T01:58:33
+Log FUN512: CEtBoeG4lhcNISZQ5EQjJedOmFUwjSJsBffRrFkwhXgWVyK38kxKvaOZgD46aVKwhQ_bvjItugcmf8av_wy9Ag

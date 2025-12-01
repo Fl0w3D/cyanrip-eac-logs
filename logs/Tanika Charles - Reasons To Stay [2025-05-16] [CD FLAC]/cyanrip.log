@@ -1,0 +1,906 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      none
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    11
+Tracks to rip:  all
+DiscID:         P5unthhoeTRJrC7n6QdX9VcdYos-
+Release ID:     d774b8a5-703b-4817-807f-c958f6f899bc
+CDDB ID:        9207BE0B
+Disc MCN:       0000000000000
+Album:          Reasons To Stay
+Album artist:   Tanika Charles
+AccurateRip:    found
+Total time:     00:33:02.893
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    0 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    0 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.5 LUFS
+    Threshold: -19.6 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -29.6 LUFS
+    LRA low:   -11.1 LUFS
+    LRA high:   -8.4 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.954071
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.954071
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.954227
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:05.306
+    Samples:     8172024
+    Frames:      13898
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     13897 (with offset: 13898)
+
+  EAC CRC32:     AF7877C3
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  635E6A8A
+    Accurip v2:  1F60141D (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          c14af7a7-0deb-432e-8690-53beb2b4502a
+    title:                         Don’t Like You Anymore
+    artist:                        Tanika Charles
+    track:                         1
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582400050
+    creation_time:                 2025-12-01T13:25:10
+    REPLAYGAIN_TRACK_GAIN:         -8.50 dB
+    R128_TRACK_GAIN:               -897
+    REPLAYGAIN_TRACK_RANGE:        2.68 dB
+    REPLAYGAIN_TRACK_PEAK:         0.954227
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/01. Don’t Like You Anymore.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.3 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -29.3 LUFS
+    LRA low:   -12.0 LUFS
+    LRA high:   -7.0 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.957062
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.957062
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.958129
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:10.493
+    Samples:     8400756
+    Frames:      14287
+    Pregap LSN:  13898 (duration: 00:00:00.000)
+    Start LSN:   13898
+    End LSN:     28184 (with offset: 28185)
+
+  EAC CRC32:     2BABE866
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  3B6CF766
+    Accurip v2:  07380BF4 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          42ecceb7-e1d7-462b-8735-4eaa0baadaaa
+    title:                         Consistency
+    artist:                        Tanika Charles
+    track:                         2
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500001
+    creation_time:                 2025-12-01T13:27:27
+    REPLAYGAIN_TRACK_GAIN:         -8.84 dB
+    R128_TRACK_GAIN:               -983
+    REPLAYGAIN_TRACK_RANGE:        4.96 dB
+    REPLAYGAIN_TRACK_PEAK:         0.958129
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/02. Consistency.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.2 LUFS
+    Threshold: -20.4 LUFS
+
+  Loudness range:
+    LRA:         4.0 LU
+    Threshold: -30.4 LUFS
+    LRA low:   -12.1 LUFS
+    LRA high:   -8.1 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.961700
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.961700
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.962074
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:04.920
+    Samples:     8154972
+    Frames:      13869
+    Pregap LSN:  28185 (duration: 00:00:00.000)
+    Start LSN:   28185
+    End LSN:     42053 (with offset: 42054)
+
+  EAC CRC32:     AD820054
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  26DA316F
+    Accurip v2:  4AFB5296 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          1ecfa317-c8ff-435b-9f0b-f52b59ae09b9
+    title:                         No More
+    artist:                        Tanika Charles
+    track:                         3
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500002
+    creation_time:                 2025-12-01T13:29:51
+    REPLAYGAIN_TRACK_GAIN:         -7.82 dB
+    R128_TRACK_GAIN:               -721
+    REPLAYGAIN_TRACK_RANGE:        4.04 dB
+    REPLAYGAIN_TRACK_PEAK:         0.962074
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/03. No More.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.7 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -12.5 LUFS
+    LRA high:   -9.4 LUFS
+
+  Sample peak:
+    Peak:       -0.7 dBFS
+
+  True peak:
+    Peak:       -0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.918640
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.918640
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.921395
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:13.746
+    Samples:     8544228
+    Frames:      14531
+    Pregap LSN:  42054 (duration: 00:00:00.000)
+    Start LSN:   42054
+    End LSN:     56584 (with offset: 56585)
+
+  EAC CRC32:     321C11E8
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  E4982E97
+    Accurip v2:  6E67F7D8 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          4eb6c01d-6a6f-4824-b6f6-776ee738fb06
+    title:                         How Long Will It Take
+    artist:                        Tanika Charles
+    track:                         4
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500003
+    creation_time:                 2025-12-01T13:32:06
+    REPLAYGAIN_TRACK_GAIN:         -7.25 dB
+    R128_TRACK_GAIN:               -577
+    REPLAYGAIN_TRACK_RANGE:        3.18 dB
+    REPLAYGAIN_TRACK_PEAK:         0.921395
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/04. How Long Will It Take.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.5 LUFS
+    Threshold: -20.6 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -30.6 LUFS
+    LRA low:   -12.4 LUFS
+    LRA high:   -8.5 LUFS
+
+  Sample peak:
+    Peak:       -0.5 dBFS
+
+  True peak:
+    Peak:       -0.5 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.948395
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.948395
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.948222
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:21.440
+    Samples:     8883504
+    Frames:      15108
+    Pregap LSN:  56585 (duration: 00:00:00.000)
+    Start LSN:   56585
+    End LSN:     71692 (with offset: 71693)
+
+  EAC CRC32:     667158F5
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  F13714C5
+    Accurip v2:  E5F89FB5 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          271cb2b9-e280-4869-981c-e79783cb2094
+    title:                         Here When You’re Ready
+    artist:                        Tanika Charles
+    track:                         5
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582400051
+    creation_time:                 2025-12-01T13:34:21
+    REPLAYGAIN_TRACK_GAIN:         -7.45 dB
+    R128_TRACK_GAIN:               -628
+    REPLAYGAIN_TRACK_RANGE:        3.89 dB
+    REPLAYGAIN_TRACK_PEAK:         0.948222
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/05. Here When You’re Ready.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.8 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         1.2 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -11.4 LUFS
+    LRA high:  -10.2 LUFS
+
+  Sample peak:
+    Peak:       -0.8 dBFS
+
+  True peak:
+    Peak:       -0.8 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.909271
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.909271
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.915087
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:36.293
+    Samples:     9538536
+    Frames:      16222
+    Pregap LSN:  71693 (duration: 00:00:00.000)
+    Start LSN:   71693
+    End LSN:     87914 (with offset: 87915)
+
+  EAC CRC32:     35EF5B04
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  8263CD4A
+    Accurip v2:  04BFC127 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          80a3770f-ea7d-4419-9978-3b26846b3a14
+    title:                         Reasons To Stay
+    artist:                        Tanika Charles
+    track:                         6
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500004
+    creation_time:                 2025-12-01T13:36:34
+    REPLAYGAIN_TRACK_GAIN:         -7.23 dB
+    R128_TRACK_GAIN:               -571
+    REPLAYGAIN_TRACK_RANGE:        1.23 dB
+    REPLAYGAIN_TRACK_PEAK:         0.915087
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/06. Reasons To Stay.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.7 LUFS
+    Threshold: -22.2 LUFS
+
+  Loudness range:
+    LRA:        10.8 LU
+    Threshold: -32.2 LUFS
+    LRA low:   -19.5 LUFS
+    LRA high:   -8.7 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.954498
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.954498
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.959868
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:01:18.480
+    Samples:     3460968
+    Frames:      5886
+    Pregap LSN:  87915 (duration: 00:00:00.000)
+    Start LSN:   87915
+    End LSN:     93800 (with offset: 93801)
+
+  EAC CRC32:     9D6CC876
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  B3865781
+    Accurip v2:  2CFB3E61 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          588e4eb1-e6df-46b8-b950-753af88c433a
+    title:                         The Lament
+    artist:                        Tanika Charles
+    track:                         7
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500005
+    creation_time:                 2025-12-01T13:38:55
+    REPLAYGAIN_TRACK_GAIN:         -6.33 dB
+    R128_TRACK_GAIN:               -341
+    REPLAYGAIN_TRACK_RANGE:        10.81 dB
+    REPLAYGAIN_TRACK_PEAK:         0.959868
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/07. The Lament.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.9 LUFS
+    Threshold: -20.0 LUFS
+
+  Loudness range:
+    LRA:         5.6 LU
+    Threshold: -30.0 LUFS
+    LRA low:   -13.1 LUFS
+    LRA high:   -7.5 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.956726
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.956726
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.959114
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:17.533
+    Samples:     8711220
+    Frames:      14815
+    Pregap LSN:  93801 (duration: 00:00:00.000)
+    Start LSN:   93801
+    End LSN:     108615 (with offset: 108616)
+
+  EAC CRC32:     F9213870
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  2FF0F249
+    Accurip v2:  AA2B14F9 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          f8dfcd13-59e3-40d0-9242-ccb1552085ef
+    title:                         Don’t Let Go
+    artist:                        Tanika Charles
+    track:                         8
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500006
+    creation_time:                 2025-12-01T13:39:45
+    REPLAYGAIN_TRACK_GAIN:         -8.08 dB
+    R128_TRACK_GAIN:               -789
+    REPLAYGAIN_TRACK_RANGE:        5.62 dB
+    REPLAYGAIN_TRACK_PEAK:         0.959114
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/08. Don’t Let Go.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.2 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:         5.2 LU
+    Threshold: -30.3 LUFS
+    LRA low:   -13.5 LUFS
+    LRA high:   -8.3 LUFS
+
+  Sample peak:
+    Peak:       -0.7 dBFS
+
+  True peak:
+    Peak:       -0.7 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.922729
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.922729
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.923706
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:13.746
+    Samples:     8544228
+    Frames:      14531
+    Pregap LSN:  108616 (duration: 00:00:00.000)
+    Start LSN:   108616
+    End LSN:     123146 (with offset: 123147)
+
+  EAC CRC32:     A75EB842
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  B5AA7468
+    Accurip v2:  454156C8 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          6bf6e691-c042-416b-900d-ba4acb5c1a91
+    title:                         Talk To Me Nice
+    artist:                        Tanika Charles
+    track:                         9
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500007
+    creation_time:                 2025-12-01T13:41:51
+    REPLAYGAIN_TRACK_GAIN:         -7.84 dB
+    R128_TRACK_GAIN:               -728
+    REPLAYGAIN_TRACK_RANGE:        5.15 dB
+    REPLAYGAIN_TRACK_PEAK:         0.923706
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/09. Talk To Me Nice.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:          -9.2 LUFS
+    Threshold: -19.2 LUFS
+
+  Loudness range:
+    LRA:         1.9 LU
+    Threshold: -29.2 LUFS
+    LRA low:   -10.3 LUFS
+    LRA high:   -8.4 LUFS
+
+  Sample peak:
+    Peak:       -0.4 dBFS
+
+  True peak:
+    Peak:       -0.4 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.955505
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.955505
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.959664
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:06.160
+    Samples:     8209656
+    Frames:      13962
+    Pregap LSN:  123147 (duration: 00:00:00.000)
+    Start LSN:   123147
+    End LSN:     137108 (with offset: 137109)
+
+  EAC CRC32:     32155836
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  28925FE0
+    Accurip v2:  D76A168E (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          a429459e-1759-443e-b0bd-5eb9cda822d9
+    title:                         Having A Time
+    artist:                        Tanika Charles
+    track:                         10
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500008
+    creation_time:                 2025-12-01T13:43:50
+    REPLAYGAIN_TRACK_GAIN:         -8.78 dB
+    R128_TRACK_GAIN:               -968
+    REPLAYGAIN_TRACK_RANGE:        1.88 dB
+    REPLAYGAIN_TRACK_PEAK:         0.959664
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/10. Having A Time.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.5 LUFS
+    Threshold: -21.6 LUFS
+
+  Loudness range:
+    LRA:         4.1 LU
+    Threshold: -31.6 LUFS
+    LRA low:   -13.7 LUFS
+    LRA high:   -9.6 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.967072
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.967072
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.967101
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:34.773
+    Samples:     6825504
+    Frames:      11608
+    Pregap LSN:  137109 (duration: 00:00:00.000)
+    Start LSN:   137109
+    End LSN:     148716
+    Appended:    1 frames of silence
+
+  EAC CRC32:     6AD16F1E
+  Accurip:       disc found in database (max confidence: 1)
+    Accurip v1:  F7A395A7
+    Accurip v2:  1E7C97D0 (accurately ripped, confidence 1)
+
+  Metadata:
+    mbid:                          9302b017-06d4-4498-983e-7f2ef21f8011
+    title:                         Win
+    artist:                        Tanika Charles feat. Clerel
+    track:                         11
+    tracktotal:                    11
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            P5unthhoeTRJrC7n6QdX9VcdYos-
+    cddb:                          9207BE0B
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-05-16
+    musicbrainz_albumid:           d774b8a5-703b-4817-807f-c958f6f899bc
+    album:                         Reasons To Stay
+    barcode:                       617308095081
+    packaging:                     Digipak
+    country:                       IT
+    releasestatus:                 Official
+    album_artist:                  Tanika Charles
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          ITG582500009
+    creation_time:                 2025-12-01T13:45:39
+    REPLAYGAIN_TRACK_GAIN:         -6.45 dB
+    R128_TRACK_GAIN:               -371
+    REPLAYGAIN_TRACK_RANGE:        4.09 dB
+    REPLAYGAIN_TRACK_PEAK:         0.967101
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  File(s):
+    Tanika Charles - Reasons To Stay [2025-05-16] [CD FLAC]/11. Win.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.3 LUFS
+
+  Loudness range:
+    LRA:         4.6 LU
+    Threshold: -30.3 LUFS
+    LRA low:   -12.8 LUFS
+    LRA high:   -8.1 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+Tracks ripped accurately: 11/11
+
+Paranoia status counts:
+  READ:          12191
+  VERIFY:        896
+  OVERLAP:       256
+
+Ripping errors: 0
+Ripping finished at 2025-12-01T13:47:10
+Log FUN512: VOwQB2mb8.kEj4_g6exs_VhcUGBU7C0_zZ5w3BY7.COZheMdgt.BRXwuXxq1EKpt1ibQrNG5skfpAxcfashw_A
