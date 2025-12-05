@@ -1,0 +1,1008 @@
+cyanrip 0.9.3-uf0.6 (2a4f3bf)
+Drive used:     HL-DT-ST DVDRAM GP60NB60  (revision RF01)
+System device:  /dev/cdrom
+Device model:   HL-DT-ST DVDRAM GP60NB60  RF01 SCSI CD-ROM
+Offset:         +6 samples
+Overread:       +1 frame
+Overread mode:  fill with silence in lead-in/lead-out
+Speed:          default (unchangeable)
+C2 errors:      supported by drive
+Paranoia level: max
+Frame retries:  10
+HDCD decoding:  disabled
+Album Art:      Front (From: Cover Art DB)
+Outputs:        flac
+Disc number:    1
+Total discs:    1
+Disc tracks:    12
+Tracks to rip:  all
+DiscID:         ifxxhJJiDtws.74W4kWaLisFbvg-
+Release ID:     bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+CDDB ID:        A40B090C
+Disc MCN:       0000000000000
+Album:          Watt
+Album artist:   Bertrand Belin
+AccurateRip:    not found
+Total time:     00:47:05.426
+
+Gaps:
+    0 frame pregap in track 1, unmerged
+    0 frame pregap in track 2, merging into track 1
+    0 frame pregap in track 3, merging into track 2
+    37 frame pregap in track 4, merging into track 3
+    0 frame pregap in track 5, merging into track 4
+    0 frame pregap in track 6, merging into track 5
+    0 frame pregap in track 7, merging into track 6
+    37 frame pregap in track 8, merging into track 7
+    0 frame pregap in track 9, merging into track 8
+    0 frame pregap in track 10, merging into track 9
+    0 frame pregap in track 11, merging into track 10
+    157 frame pregap in track 12, merging into track 11
+
+Cover art destination(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/Front.jpg
+
+Tracks:
+Track 1 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.6 LUFS
+    Threshold: -22.3 LUFS
+
+  Loudness range:
+    LRA:        13.3 LU
+    Threshold: -32.3 LUFS
+    LRA low:   -23.1 LUFS
+    LRA high:   -9.8 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.992688
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:53.733
+    Samples:     12953640
+    Frames:      22030
+    Pregap LSN:  0 (duration: 00:00:02.000)
+    Start LSN:   0
+    End LSN:     22029 (with offset: 22030)
+
+  EAC CRC32:     279F5F42
+  Accurip:       not found
+    Accurip v1:  16322E65
+    Accurip v2:  90B31558
+    Accurip 450: CA1DB5FD
+
+  Metadata:
+    mbid:                          c835c523-ecff-4ca3-befb-95b62a5e2858
+    title:                         L'inconnu en personne
+    artist:                        Bertrand Belin
+    track:                         1
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501260
+    creation_time:                 2025-12-01T19:56:05
+    REPLAYGAIN_TRACK_GAIN:         -6.36 dB
+    R128_TRACK_GAIN:               -348
+    REPLAYGAIN_TRACK_RANGE:        13.28 dB
+    REPLAYGAIN_TRACK_PEAK:         0.992688
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/01. L'inconnu en personne.flac
+
+Track 2 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.5 LUFS
+    Threshold: -20.8 LUFS
+
+  Loudness range:
+    LRA:         5.8 LU
+    Threshold: -30.8 LUFS
+    LRA low:   -14.6 LUFS
+    LRA high:   -8.8 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987853
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:25.893
+    Samples:     11725896
+    Frames:      19942
+    Pregap LSN:  22030 (duration: 00:00:00.000)
+    Start LSN:   22030
+    End LSN:     41971 (with offset: 41972)
+
+  EAC CRC32:     E2D19CEC
+  Accurip:       not found
+    Accurip v1:  6BB21904
+    Accurip v2:  47CACBA8
+    Accurip 450: 78EFF4A5
+
+  Metadata:
+    mbid:                          f4efc5e3-6c4d-4802-a023-bd097c0c75a7
+    title:                         Sur mon 31
+    artist:                        Bertrand Belin
+    track:                         2
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501300
+    creation_time:                 2025-12-01T19:59:36
+    REPLAYGAIN_TRACK_GAIN:         -7.45 dB
+    R128_TRACK_GAIN:               -627
+    REPLAYGAIN_TRACK_RANGE:        5.82 dB
+    REPLAYGAIN_TRACK_PEAK:         0.987853
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/02. Sur mon 31.flac
+
+Track 3 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.1 LUFS
+    Threshold: -20.2 LUFS
+
+  Loudness range:
+    LRA:         2.7 LU
+    Threshold: -30.2 LUFS
+    LRA low:   -11.5 LUFS
+    LRA high:   -8.8 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.075814
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:47.640
+    Samples:     10038924
+    Frames:      17073
+    Pregap LSN:  41972 (duration: 00:00:00.000)
+    Start LSN:   41972
+    End LSN:     59044 (with offset: 59045)
+
+  EAC CRC32:     281C4D72
+  Accurip:       not found
+    Accurip v1:  544D5C2A
+    Accurip v2:  585634BE
+    Accurip 450: 38380D1D
+
+  Metadata:
+    mbid:                          5bebf15a-48b0-4f34-9892-1c9b6f0647aa
+    title:                         La béatitude
+    artist:                        Bertrand Belin
+    track:                         3
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501280
+    creation_time:                 2025-12-01T20:02:45
+    REPLAYGAIN_TRACK_GAIN:         -7.91 dB
+    R128_TRACK_GAIN:               -745
+    REPLAYGAIN_TRACK_RANGE:        2.66 dB
+    REPLAYGAIN_TRACK_PEAK:         1.075814
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/03. La béatitude.flac
+
+Track 4 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.6 LUFS
+    Threshold: -22.1 LUFS
+
+  Loudness range:
+    LRA:        11.4 LU
+    Threshold: -32.1 LUFS
+    LRA low:   -20.6 LUFS
+    LRA high:   -9.3 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.987099
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:25.533
+    Samples:     9064020
+    Frames:      15415
+    Pregap LSN:  59008 (duration: 00:00:00.493)
+    Start LSN:   59045
+    End LSN:     74459 (with offset: 74460)
+
+  EAC CRC32:     12276B35
+  Accurip:       not found
+    Accurip v1:  CC544956
+    Accurip v2:  467C61E9
+    Accurip 450: 71162F26
+
+  Metadata:
+    mbid:                          d33097ef-923a-4852-b913-3dd3a90b88a6
+    title:                         Rembobine
+    artist:                        Bertrand Belin
+    track:                         4
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501350
+    creation_time:                 2025-12-01T20:05:19
+    REPLAYGAIN_TRACK_GAIN:         -6.38 dB
+    R128_TRACK_GAIN:               -354
+    REPLAYGAIN_TRACK_RANGE:        11.37 dB
+    REPLAYGAIN_TRACK_PEAK:         0.987099
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/04. Rembobine.flac
+
+Track 5 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.0 LUFS
+    Threshold: -23.2 LUFS
+
+  Loudness range:
+    LRA:         3.2 LU
+    Threshold: -33.2 LUFS
+    LRA low:   -14.6 LUFS
+    LRA high:  -11.3 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.988830
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:02:52.093
+    Samples:     7589316
+    Frames:      12907
+    Pregap LSN:  74460 (duration: 00:00:00.000)
+    Start LSN:   74460
+    End LSN:     87366 (with offset: 87367)
+
+  EAC CRC32:     2910B16B
+  Accurip:       not found
+    Accurip v1:  08DF1DAF
+    Accurip v2:  082CD5EF
+    Accurip 450: A4C905CA
+
+  Metadata:
+    mbid:                          dcc45a6d-86fa-4c9f-8405-d37584bb7525
+    title:                         Watt
+    artist:                        Bertrand Belin
+    track:                         5
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501290
+    creation_time:                 2025-12-01T20:07:33
+    REPLAYGAIN_TRACK_GAIN:         -4.97 dB
+    R128_TRACK_GAIN:               8
+    REPLAYGAIN_TRACK_RANGE:        3.22 dB
+    REPLAYGAIN_TRACK_PEAK:         0.988830
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/05. Watt.flac
+
+Track 6 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -13.1 LUFS
+    Threshold: -23.6 LUFS
+
+  Loudness range:
+    LRA:         7.8 LU
+    Threshold: -33.5 LUFS
+    LRA low:   -19.7 LUFS
+    LRA high:  -11.8 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.000704
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:04.946
+    Samples:     10802148
+    Frames:      18371
+    Pregap LSN:  87367 (duration: 00:00:00.000)
+    Start LSN:   87367
+    End LSN:     105737 (with offset: 105738)
+
+  EAC CRC32:     1B6A25D6
+  Accurip:       not found
+    Accurip v1:  EA99B96E
+    Accurip v2:  4A3F75FE
+    Accurip 450: F29947D3
+
+  Metadata:
+    mbid:                          b1c85255-762a-468a-b6e1-7324042e3263
+    title:                         Tel qu'en moi-même
+    artist:                        Bertrand Belin
+    track:                         6
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501360
+    creation_time:                 2025-12-01T20:09:22
+    REPLAYGAIN_TRACK_GAIN:         -4.92 dB
+    R128_TRACK_GAIN:               21
+    REPLAYGAIN_TRACK_RANGE:        7.84 dB
+    REPLAYGAIN_TRACK_PEAK:         1.000704
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/06. Tel qu'en moi-même.flac
+
+Track 7 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.2 LUFS
+    Threshold: -22.4 LUFS
+
+  Loudness range:
+    LRA:         9.3 LU
+    Threshold: -32.4 LUFS
+    LRA low:   -19.4 LUFS
+    LRA high:  -10.1 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.0 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966095
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966095
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.997415
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:34.133
+    Samples:     9443280
+    Frames:      16060
+    Pregap LSN:  105738 (duration: 00:00:00.000)
+    Start LSN:   105738
+    End LSN:     121797 (with offset: 121798)
+
+  EAC CRC32:     3FEE92EE
+  Accurip:       not found
+    Accurip v1:  11A94CEC
+    Accurip v2:  8E4C3A67
+    Accurip 450: 62EFE3A9
+
+  Metadata:
+    mbid:                          65bd0ba0-53e3-4ec4-954d-e1328b71349c
+    title:                         Berger
+    artist:                        Bertrand Belin
+    track:                         7
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501330
+    creation_time:                 2025-12-01T20:11:56
+    REPLAYGAIN_TRACK_GAIN:         -5.82 dB
+    R128_TRACK_GAIN:               -211
+    REPLAYGAIN_TRACK_RANGE:        9.32 dB
+    REPLAYGAIN_TRACK_PEAK:         0.997415
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/07. Berger.flac
+
+Track 8 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.1 LUFS
+    Threshold: -21.3 LUFS
+
+  Loudness range:
+    LRA:         4.7 LU
+    Threshold: -31.3 LUFS
+    LRA low:   -13.9 LUFS
+    LRA high:   -9.2 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.1 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.009324
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:18.253
+    Samples:     8742972
+    Frames:      14869
+    Pregap LSN:  121761 (duration: 00:00:00.493)
+    Start LSN:   121798
+    End LSN:     136666 (with offset: 136667)
+
+  EAC CRC32:     02966CC1
+  Accurip:       not found
+    Accurip v1:  DA90CF9E
+    Accurip v2:  BCB9D533
+    Accurip 450: 647121CA
+
+  Metadata:
+    mbid:                          55c3f0db-02d9-43e7-a94c-57d2f70509d0
+    title:                         Seul
+    artist:                        Bertrand Belin
+    track:                         8
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501320
+    creation_time:                 2025-12-01T20:14:05
+    REPLAYGAIN_TRACK_GAIN:         -6.92 dB
+    R128_TRACK_GAIN:               -491
+    REPLAYGAIN_TRACK_RANGE:        4.66 dB
+    REPLAYGAIN_TRACK_PEAK:         1.009324
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/08. Seul.flac
+
+Track 9 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -11.5 LUFS
+    Threshold: -22.0 LUFS
+
+  Loudness range:
+    LRA:         6.4 LU
+    Threshold: -32.0 LUFS
+    LRA low:   -15.8 LUFS
+    LRA high:   -9.3 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966095
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966095
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.970278
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:26.813
+    Samples:     9120468
+    Frames:      15511
+    Pregap LSN:  136667 (duration: 00:00:00.000)
+    Start LSN:   136667
+    End LSN:     152177 (with offset: 152178)
+
+  EAC CRC32:     BC8690D6
+  Accurip:       not found
+    Accurip v1:  8EBD441D
+    Accurip v2:  13228793
+    Accurip 450: 76604948
+
+  Metadata:
+    mbid:                          a818afa4-a5ba-47d6-b7d5-b1c696a13b76
+    title:                         Certains jours
+    artist:                        Bertrand Belin
+    track:                         9
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501340
+    creation_time:                 2025-12-01T20:16:01
+    REPLAYGAIN_TRACK_GAIN:         -6.45 dB
+    R128_TRACK_GAIN:               -372
+    REPLAYGAIN_TRACK_RANGE:        6.44 dB
+    REPLAYGAIN_TRACK_PEAK:         0.970278
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/09. Certains jours.flac
+
+Track 10 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -10.7 LUFS
+    Threshold: -20.9 LUFS
+
+  Loudness range:
+    LRA:         7.2 LU
+    Threshold: -30.9 LUFS
+    LRA low:   -15.7 LUFS
+    LRA high:   -8.6 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966125
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966125
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        1.019962
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:48.640
+    Samples:     12729024
+    Frames:      21648
+    Pregap LSN:  152178 (duration: 00:00:00.000)
+    Start LSN:   152178
+    End LSN:     173825 (with offset: 173826)
+
+  EAC CRC32:     ABC57DF6
+  Accurip:       not found
+    Accurip v1:  2B938B01
+    Accurip v2:  BB6904D0
+    Accurip 450: 91A1C78C
+
+  Metadata:
+    mbid:                          ecfd163c-b3d4-4d22-a698-a6341b37fb27
+    title:                         Pluie de data
+    artist:                        Bertrand Belin
+    track:                         10
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501270
+    creation_time:                 2025-12-01T20:18:01
+    REPLAYGAIN_TRACK_GAIN:         -7.30 dB
+    R128_TRACK_GAIN:               -590
+    REPLAYGAIN_TRACK_RANGE:        7.16 dB
+    REPLAYGAIN_TRACK_PEAK:         1.019962
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/10. Pluie de data.flac
+
+Track 11 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.5 LUFS
+    Threshold: -22.9 LUFS
+
+  Loudness range:
+    LRA:         7.6 LU
+    Threshold: -32.9 LUFS
+    LRA low:   -17.6 LUFS
+    LRA high:  -10.0 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.2 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966095
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966095
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.980035
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:04:58.800
+    Samples:     13177080
+    Frames:      22410
+    Pregap LSN:  173826 (duration: 00:00:00.000)
+    Start LSN:   173826
+    End LSN:     196235 (with offset: 196236)
+
+  EAC CRC32:     44C40988
+  Accurip:       not found
+    Accurip v1:  A61C2E37
+    Accurip v2:  26F19B22
+    Accurip 450: A3EBA02B
+
+  Metadata:
+    mbid:                          a57f730c-19c0-4216-810f-34da9ac165ef
+    title:                         Amour ordinaire
+    artist:                        Bertrand Belin
+    track:                         11
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501310
+    creation_time:                 2025-12-01T20:20:45
+    REPLAYGAIN_TRACK_GAIN:         -5.45 dB
+    R128_TRACK_GAIN:               -116
+    REPLAYGAIN_TRACK_RANGE:        7.60 dB
+    REPLAYGAIN_TRACK_PEAK:         0.980035
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/11. Amour ordinaire.flac
+
+Track 12 ripped and encoded successfully!
+Summary:
+
+  Integrated loudness:
+    I:         -12.9 LUFS
+    Threshold: -23.3 LUFS
+
+  Loudness range:
+    LRA:         5.0 LU
+    Threshold: -33.3 LUFS
+    LRA low:   -15.2 LUFS
+    LRA high:  -10.2 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:       -0.3 dBFS
+
+  Sample peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.966095
+
+  Sample peak relative amplitude (precise):
+    Peak:        0.966095
+
+  True peak relative amplitude (calculated from ebur128 dBFS):
+    Peak:        0.968835
+
+  Preemphasis:   none detected
+
+  Properties:
+    Duration:    00:03:28.946
+    Samples:     9214548
+    Frames:      15671
+    Pregap LSN:  196079 (duration: 00:00:02.093)
+    Start LSN:   196236
+    End LSN:     211906
+    Appended:    1 frames of silence
+
+  EAC CRC32:     768A685A
+  Accurip:       not found
+    Accurip v1:  FD104B13
+    Accurip v2:  3EC9B612
+    Accurip 450: 7CE214E6
+
+  Metadata:
+    mbid:                          eaf015e4-25c3-4f5f-b7d0-707ffc6ff7bc
+    title:                         Ni bien ni mal
+    artist:                        Bertrand Belin
+    track:                         12
+    tracktotal:                    12
+    disc_mcn:                      0000000000000
+    musicbrainz_discid:            ifxxhJJiDtws.74W4kWaLisFbvg-
+    cddb:                          A40B090C
+    media:                         CD
+    comment:                       cyanrip 0.9.3-uf0.6
+    date:                          2025-10-03
+    musicbrainz_albumid:           bd1f11eb-f77d-4a92-ad17-af084cdd38c8
+    album:                         Watt
+    barcode:                       3596974865228
+    country:                       FR
+    album_artist:                  Bertrand Belin
+    totaldiscs:                    1
+    disc:                          1
+    format:                        CD
+    isrc:                          FR6F32501370
+    creation_time:                 2025-12-01T20:23:32
+    REPLAYGAIN_TRACK_GAIN:         -5.11 dB
+    R128_TRACK_GAIN:               -27
+    REPLAYGAIN_TRACK_RANGE:        5.04 dB
+    REPLAYGAIN_TRACK_PEAK:         0.968835
+    REPLAYGAIN_REFERENCE_LOUDNESS: -18.00 LUFS
+
+  Embedded cover art:
+    Front: 3000x3000 Motion JPEG
+
+  File(s):
+    Bertrand Belin - Watt [2025-10-03] [CD FLAC]/12. Ni bien ni mal.flac
+
+Album Loudness Summary:
+
+  Integrated loudness:
+    I:         -11.6 LUFS
+    Threshold: -21.9 LUFS
+
+  Loudness range:
+    LRA:         8.1 LU
+    Threshold: -31.9 LUFS
+    LRA low:   -17.2 LUFS
+    LRA high:   -9.1 LUFS
+
+  Sample peak:
+    Peak:       -0.3 dBFS
+
+  True peak:
+    Peak:        0.6 dBFS
+
+Paranoia status counts:
+  READ:          17226
+  VERIFY:        1142
+  OVERLAP:       345
+
+Ripping errors: 0
+Ripping finished at 2025-12-01T20:25:28
+Log FUN512: aGgcgSajo1YDX9AGyeCidLyKpUibwfEl.PZi35TnAficytKY7YoLS_KrGyAz4xY8NU43UOT9_FNKbptaxkrHzg
